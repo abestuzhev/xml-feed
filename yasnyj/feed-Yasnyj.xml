@@ -28,15 +28,15 @@
                         <apartment>1</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan></plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/yasnyj/img/floor-1/1room-38,87.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3139200</price>
-                        <area>39,24</area>
-                        <kitchen_area>7,82</kitchen_area>
-                        <living_area>37,29</living_area>
+                        <price>2265590</price>
+                        <area>38,87</area>
+                        <kitchen_area>12,10</kitchen_area>
+                        <living_area>37,88</living_area>
                         <rooms_area>
-                            <area>18,48</area>
+                            <area>15,38</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -45,9 +45,6 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-
-
-
                 </flats>
 
             </building>
