@@ -1,0 +1,172 @@
+<complexes>
+    <complex>
+        <id>113354</id>
+        <name>ЖК "Ясный"</name>
+        <latitude>64.5366682</latitude>
+        <longitude>40.53470360000006</longitude>
+        <address>г. Северодвинск, квартал 167, Победы, дом 43А</address>
+        <images>
+            <image></image>
+        </images>
+
+        <buildings>
+            <building>
+                <id>155081</id>
+                <fz_214>1</fz_214>
+                <name>ЖК "Ясный"</name>
+                <floors>13</floors>
+                <floors_ready>0</floors_ready>
+                <building_state>built</building_state>
+                <built_year>2022</built_year>
+                <ready_quarter>4</ready_quarter>
+                <building_phase>1</building_phase>
+                <building_type>кирпичный</building_type>
+                <image></image>
+                <flats>
+                    <flat>
+                        <flat_id>1001</flat_id>
+                        <apartment>1</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan></plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3139200</price>
+                        <area>39,24</area>
+                        <kitchen_area>7,82</kitchen_area>
+                        <living_area>37,29</living_area>
+                        <rooms_area>
+                            <area>18,48</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+
+
+                </flats>
+
+            </building>
+
+        </buildings>
+        <!--<discounts>-->
+            <!--<discount>-->
+                <!--<name>Холодильник в подарок</name>-->
+                <!--<description>Каждому второму дарим в подарок отличный холодильник!</description>-->
+                <!--<image>url.img.ru</image>-->
+                <!--<site>zastroischik.ru</site>-->
+            <!--</discount>-->
+        <!--</discounts>-->
+        <description_main>
+            <title>Жилой комплекс «Ясный»</title>
+            <text>
+                Новый 13-ти этажный жилой комплекс «Ясный» — комфорт класса в городе Северодвинске на перекрестке пр. Победы и пр. Труда (167 квартал).
+                Теплый и тихий дом со своей парковкой и детской площадкой, материал стен - кирпич с энергоэффективным утеплителем, стены со средней толщиной до 770 мм из экологически чистого «теплого» кирпича, позволяет сохранять тепло и любые звуки внутри квартиры, установлены бесшумные скоростные лифты.
+                Smart-планировка - комфорт, удобство и эргономика. Наши квартиры созданы для жизни. Каждый метр функционален.
+                Проект включает отделку квартиры - "серый ключ" - вся электропроводка, включая розетки и выключатели, стяжка полов, штукатурка стен, разводка под сантехнику до счетчиков учета воды, пластиковые окна с подоконниками и откосами, биметаллические радиаторы отопления с поквартирным учетом тепла, металлические входные двери. То есть выполняются все стандартные строительно-отделочные работы (Вам не придется все ломать и делать заново).
+                Жилой комплекс возводится в благоустроенном районе с развитой инфраструктурой - под рукой крупнейшие сети супермаркетов «Макси», «Магнит», «Пятерочка», банки, офисы, магазины, заведения общепита, новый детский сад во дворе, а так же детские сады «Радуга», «Веселые нотки», детский сад №8 «Лесная сказка» в шаговой доступности. Рядом с домом средняя общеобразовательная школа № 28, пешая доступность до остановок. Недалеко автозаправка «Северная империя».
+                Строительство защищено по 214 ФЗ, продажа через эскроу-счета, что ликвидирует любые риски!
+            </text>
+        </description_main>
+        <!--<description_secondary>-->
+            <!--<title>Самый надежный!</title>-->
+            <!--<text>Ещё наш ЖК самый надёжный и его дизайн разрабатывал самый известный архитектор!</text>-->
+        <!--</description_secondary>-->
+        <infrastructure>
+            <parking>Наземная</parking>
+            <security>0</security>
+            <fenced_area>1</fenced_area>
+            <sports_ground>1</sports_ground>
+            <playground>1</playground>
+            <school>1</school>
+            <kindergarten>1</kindergarten>
+        </infrastructure>
+        <!--<videos>-->
+            <!--<video>-->
+                <!--<type>youtube</type>-->
+                <!--<url>youtube.com/123123</url>-->
+            <!--</video>-->
+            <!--<video>-->
+                <!--<type>realtime</type>-->
+                <!--<url>realtime.com/123123</url>-->
+            <!--</video>-->
+        <!--</videos>-->
+        <!--<profits_main>-->
+            <!--<profit_main>-->
+                <!--<title>Wi-fi во дворе!</title>-->
+                <!--<text>В нашем дворе бесплатный вай фай!</text>-->
+                <!--<image>url.img.ru</image>-->
+            <!--</profit_main>-->
+            <!--<profit_main>-->
+                <!--<title>Бассейн на крыше</title>-->
+                <!--<text>На крыше есть открытый бассейн с горками!</text>-->
+                <!--<image>url.img.ru</image>-->
+            <!--</profit_main>-->
+        <!--</profits_main>-->
+        <!--<profits_secondary>-->
+            <!--<profit_secondary>-->
+                <!--<title>Красивое освещение подъездов</title>-->
+                <!--<text>В наших подъездах есть разноцветные лампы</text>-->
+                <!--<image>url.img.ru</image>-->
+            <!--</profit_secondary>-->
+        <!--</profits_secondary>-->
+
+
+        <sales_info>
+            <sales_phone>+78182482929</sales_phone>
+            <responsible_officer_phone></responsible_officer_phone>
+            <sales_address>г. Архангельск, Ул. К.Либкнехта, д. 17, 4 этаж</sales_address>
+            <sales_latitude>64.5385615573751</sales_latitude>
+            <sales_longitude>40.52411649999998</sales_longitude>
+            <timezone>+0</timezone>
+            <work_days>
+                <work_day>
+                    <day>пн</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>ср</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>чт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>пт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>сб</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вс</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+            </work_days>
+        </sales_info>
+        <developer>
+            <id>276969</id>
+            <name>ООО «Союзархстрой»</name>
+            <phone>+7 (8182) 48 29 29</phone>
+            <site>https://sas29.com/</site>
+            <logo>https://static.tildacdn.com/tild3837-6435-4965-a664-363864383764/_.svg</logo>
+        </developer>
+    </complex>
+</complexes>
