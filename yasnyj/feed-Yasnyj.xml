@@ -15,7 +15,7 @@
                 <fz_214>1</fz_214>
                 <name>ЖК "Ясный"</name>
                 <floors>13</floors>
-                <floors_ready></floors_ready>
+                <floors_ready>1</floors_ready>
                 <building_state>built</building_state>
                 <built_year>2022</built_year>
                 <ready_quarter>4</ready_quarter>
