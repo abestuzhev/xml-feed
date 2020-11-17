@@ -33,7 +33,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-52,40.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price></price>
+                        <price>3248800</price>
                         <area>52,40</area>
                         <kitchen_area>8,36</kitchen_area>
                         <living_area>27,97</living_area>
@@ -56,7 +56,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,85.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price></price>
+                        <price>1940250</price>
                         <area>29,85</area>
                         <kitchen_area>6,72</kitchen_area>
                         <living_area>15,04</living_area>
@@ -78,7 +78,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,96.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price></price>
+                        <price>2012400</price>
                         <area>30,96</area>
                         <kitchen_area>8,43</kitchen_area>
                         <living_area>14,43</living_area>
@@ -100,7 +100,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-34,36.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price></price>
+                        <price>2233400</price>
                         <area>34,36</area>
                         <kitchen_area>6,55</kitchen_area>
                         <living_area>19,55</living_area>
@@ -122,34 +122,12 @@
                         <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-41,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price></price>
+                        <price>2670850</price>
                         <area>41,09</area>
                         <kitchen_area>5,28</kitchen_area>
                         <living_area>21,25</living_area>
                         <rooms_area>
                             <area>21,25</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1006</flat_id>
-                        <apartment>6</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-27,45.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price></price>
-                        <area>27,45</area>
-                        <kitchen_area>7,75</kitchen_area>
-                        <living_area>12,58</living_area>
-                        <rooms_area>
-                            <area>12,58</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -166,7 +144,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-40,55.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price></price>
+                        <price>2635750</price>
                         <area>40,55</area>
                         <kitchen_area>11,05</kitchen_area>
                         <living_area>21,15</living_area>
@@ -188,7 +166,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-64,72.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price></price>
+                        <price>3753760</price>
                         <area>64,72</area>
                         <kitchen_area>9,91</kitchen_area>
                         <living_area>37,88</living_area>
