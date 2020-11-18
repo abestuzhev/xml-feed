@@ -1,6 +1,6 @@
 <complexes>
     <complex>
-        <id>156486</id>
+        <id>113803</id>
         <name>Дом на "Первомайской"</name>
         <latitude>64.528216</latitude>
         <longitude>40.602212</longitude>
@@ -11,7 +11,7 @@
 
         <buildings>
             <building>
-                <id>113803</id>
+                <id>156486</id>
                 <fz_214>1</fz_214>
                 <name>Дом на "Первомайской"</name>
                 <floors>13</floors>
