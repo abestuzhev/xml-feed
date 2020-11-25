@@ -2,8 +2,8 @@
     <complex>
         <id>114527</id>
         <name>ЖК «Серебряный»</name>
-        <latitude>64.528216</latitude>
-        <longitude>40.602212</longitude>
+        <latitude>64.5429948919815</latitude>
+        <longitude>40.54671674526759</longitude>
         <address></address>
         <images>
             <image>https://abestuzhev.github.io/xml-feed/serebryanyj/img/bg.jpg</image>
@@ -5715,8 +5715,8 @@
             <sales_phone>+79212490308</sales_phone>
             <responsible_officer_phone>+79212490308</responsible_officer_phone>
             <sales_address>г. Архангельск, ул. Попова 17</sales_address>
-            <sales_latitude>64.532888</sales_latitude>
-            <sales_longitude>40.591500</sales_longitude>
+            <sales_latitude>64.54703955733194</sales_latitude>
+            <sales_longitude>40.52166399999999</sales_longitude>
             <timezone>+0</timezone>
             <work_days>
                 <work_day>
