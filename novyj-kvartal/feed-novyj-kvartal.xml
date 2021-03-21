@@ -1,0 +1,390 @@
+<complexes>
+    <complex>
+        <id>11106</id>
+        <name>ЖК «Новый квартал»</name>
+        <latitude>64,535182</latitude>
+        <longitude>40,605755</longitude>
+        <address></address>
+        <images>
+            <image>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/bg.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/plan.jpg</image>
+<!--            <image>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/map.jpg</image>-->
+        </images>
+
+        <buildings>
+            <building>
+                <id>157093</id>
+                <fz_214>1</fz_214>
+                <name>ЖК «Новый квартал»</name>
+                <floors>14</floors>
+                <floors_ready>1</floors_ready>
+                <building_state>built</building_state>
+                <built_year>2023</built_year>
+                <ready_quarter>2</ready_quarter>
+                <building_phase>1</building_phase>
+                <building_type>кирпичный</building_type>
+                <image></image>
+                <flats>
+                    <!--************************************************************************************-->
+                    <!--7 подъезд-->
+                    <!--1 этаж-->
+                    <flat>
+                        <flat_id>1003</flat_id>
+                        <apartment>3</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-34,34.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>2800000</price>
+                        <area>34,79</area>
+                        <kitchen_area>9,07</kitchen_area>
+                        <living_area>16,29</living_area>
+                        <rooms_area>
+                            <area>16,29</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1004</flat_id>
+                        <apartment>4</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,59.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4000000</price>
+                        <area>53,04</area>
+                        <kitchen_area>9,59</kitchen_area>
+                        <living_area>31,20</living_area>
+                        <rooms_area>
+                            <area>17,09</area>
+                            <area>14,11</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1005</flat_id>
+                        <apartment>5</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-72,03.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4 800 000</price>
+                        <area>72,63</area>
+                        <kitchen_area>11,40</kitchen_area>
+                        <living_area>42,96</living_area>
+                        <rooms_area>
+                            <area>11,31</area>
+                            <area>17,27</area>
+                            <area>14,38</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+                    <!--************************************************************************************-->
+                    <flat>
+                        <flat_id>1071</flat_id>
+                        <apartment>71</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-37,14.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>2960000</price>
+                        <area>37,59</area>
+                        <kitchen_area>10,66</kitchen_area>
+                        <living_area>16,40</living_area>
+                        <rooms_area>
+                            <area>16,40</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1072</flat_id>
+                        <apartment>72</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-74,22.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4 900 000</price>
+                        <area>74,82</area>
+                        <kitchen_area>11,40</kitchen_area>
+                        <living_area>44,65</living_area>
+                        <rooms_area>
+                            <area>11,85</area>
+                            <area>14,78</area>
+                            <area>18,02</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1073</flat_id>
+                        <apartment>73</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-34,74.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>2800000</price>
+                        <area>35,19</area>
+                        <kitchen_area>9,81</kitchen_area>
+                        <living_area>15,44</living_area>
+                        <rooms_area>
+                            <area>15,44</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1074</flat_id>
+                        <apartment>74</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-34,03.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>2800000</price>
+                        <area>34,98</area>
+                        <kitchen_area>6,82</kitchen_area>
+                        <living_area>15,61</living_area>
+                        <rooms_area>
+                            <area>15,61</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <!--************************************************************************************-->
+                    <!--<flat>
+                        <flat_id>10153</flat_id>
+                        <apartment>153</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-56,52.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price></price>
+                        <area>53,38</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>-->
+                    <flat>
+                        <flat_id>10154</flat_id>
+                        <apartment>154</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-34,14.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>2800000</price>
+                        <area>34,82</area>
+                        <kitchen_area>9,07</kitchen_area>
+                        <living_area>16,14</living_area>
+                        <rooms_area>
+                            <area>16,14</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <!--<flat>
+                        <flat_id>10157</flat_id>
+                        <apartment>157</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,46.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price></price>
+                        <area>52,46</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>-->
+
+
+                    <!--8 подъезд-->
+                    <!--2 этаж-->
+                    <!--************************************************************************************-->
+
+
+
+                </flats>
+
+            </building>
+
+        </buildings>
+        <!--<discounts>-->
+        <!--<discount>-->
+        <!--<name>Холодильник в подарок</name>-->
+        <!--<description>Каждому второму дарим в подарок отличный холодильник!</description>-->
+        <!--<image>url.img.ru</image>-->
+        <!--<site>zastroischik.ru</site>-->
+        <!--</discount>-->
+        <!--</discounts>-->
+        <description_main>
+            <title>ЖК «Новый квартал»</title>
+            <text>
+                Расположен в Ломоносовском округе г.Архангельска, внутри квартала, ограниченного улицами Володарского, Суфтина, Воскресенской и пр. Обводный канал.
+                В шаговой доступности расположены продуктовые и промтоварные магазины, ТРК Титан-Арена, общеобразовательные школы №4, №8, детский сад №113, детская музыкальная школа, тренажерные залы.
+
+                Дом состоит из трех подъездов, общее количество квартир- 248 .
+                Количество этажей- 16, в т.ч. 14 надземных, 1 технический и 1 подземный с паркингом на 87 машиномест.
+                Конструктивно дом представляет из себя каркасное здание со сборными ж/б колоннами , наружные стены жилой части дома изготовлены из керамического камня со слоем утеплителя и облицованы керамическим кирпичом.
+
+                Отделка квартир включает: устройство межкомнатных перегородок, подготовка пола под чистовое покрытие (полусухая стяжка), проведение коммуникаций отопления с установкой биметаллических радиаторов отопления, подвод в квартиру системы канализации и водоснабжения без установки сантехнического оборудования, подвод электроснабжения до этажного электрического щита без разводки по квартире. Проектом также предусмотрена улучшенная внутренняя отделка подъездов с размещением изображений портретов поэтов Серебряного века.
+            </text>
+        </description_main>
+        <!--<description_secondary>-->
+        <!--<title>Самый надежный!</title>-->
+        <!--<text>Ещё наш ЖК самый надёжный и его дизайн разрабатывал самый известный архитектор!</text>-->
+        <!--</description_secondary>-->
+        <infrastructure>
+            <parking>Наземная</parking>
+            <security>0</security>
+            <fenced_area>1</fenced_area>
+            <sports_ground>1</sports_ground>
+            <playground>1</playground>
+            <school>1</school>
+            <kindergarten>1</kindergarten>
+        </infrastructure>
+        <!--<videos>-->
+        <!--<video>-->
+        <!--<type>youtube</type>-->
+        <!--<url>youtube.com/123123</url>-->
+        <!--</video>-->
+        <!--<video>-->
+        <!--<type>realtime</type>-->
+        <!--<url>realtime.com/123123</url>-->
+        <!--</video>-->
+        <!--</videos>-->
+        <!--<profits_main>-->
+        <!--<profit_main>-->
+        <!--<title>Wi-fi во дворе!</title>-->
+        <!--<text>В нашем дворе бесплатный вай фай!</text>-->
+        <!--<image>url.img.ru</image>-->
+        <!--</profit_main>-->
+        <!--<profit_main>-->
+        <!--<title>Бассейн на крыше</title>-->
+        <!--<text>На крыше есть открытый бассейн с горками!</text>-->
+        <!--<image>url.img.ru</image>-->
+        <!--</profit_main>-->
+        <!--</profits_main>-->
+        <!--<profits_secondary>-->
+        <!--<profit_secondary>-->
+        <!--<title>Красивое освещение подъездов</title>-->
+        <!--<text>В наших подъездах есть разноцветные лампы</text>-->
+        <!--<image>url.img.ru</image>-->
+        <!--</profit_secondary>-->
+        <!--</profits_secondary>-->
+
+
+        <sales_info>
+            <sales_phone>+79212490308</sales_phone>
+            <responsible_officer_phone>+79212490308</responsible_officer_phone>
+            <sales_address>г. Архангельск, ул. Попова 17</sales_address>
+            <sales_latitude>64.54703955733194</sales_latitude>
+            <sales_longitude>40.52166399999999</sales_longitude>
+            <timezone>+0</timezone>
+            <work_days>
+                <work_day>
+                    <day>пн</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>ср</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>чт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>пт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>сб</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вс</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+            </work_days>
+        </sales_info>
+        <developer>
+            <id>290686</id>
+            <name>«АГР-Недвижимость»</name>
+            <phone>+7 921 810-25-35</phone>
+            <site>http://agr29.ru/</site>
+            <logo></logo>
+        </developer>
+    </complex>
+</complexes>
