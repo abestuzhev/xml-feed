@@ -27,179 +27,16 @@
                 <flats>
                     <!--************************************************************************************-->
                     <!--7 подъезд-->
-                    <!--1 этаж-->
                     <flat>
-                        <flat_id>1003</flat_id>
-                        <apartment>3</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-34,34.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2800000</price>
-                        <area>34,79</area>
-                        <kitchen_area>9,07</kitchen_area>
-                        <living_area>16,29</living_area>
-                        <rooms_area>
-                            <area>16,29</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1004</flat_id>
-                        <apartment>4</apartment>
+                        <flat_id>218</flat_id>
+                        <apartment>218</apartment>
                         <floor>1</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,59.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-55,45.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4000000</price>
-                        <area>53,04</area>
-                        <kitchen_area>9,59</kitchen_area>
-                        <living_area>31,20</living_area>
-                        <rooms_area>
-                            <area>17,09</area>
-                            <area>14,11</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1005</flat_id>
-                        <apartment>5</apartment>
-                        <floor>1</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-72,03.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>4 800 000</price>
-                        <area>72,63</area>
-                        <kitchen_area>11,40</kitchen_area>
-                        <living_area>42,96</living_area>
-                        <rooms_area>
-                            <area>11,31</area>
-                            <area>17,27</area>
-                            <area>14,38</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-
-                    <!--************************************************************************************-->
-                    <flat>
-                        <flat_id>1071</flat_id>
-                        <apartment>71</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-37,14.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2960000</price>
-                        <area>37,59</area>
-                        <kitchen_area>10,66</kitchen_area>
-                        <living_area>16,40</living_area>
-                        <rooms_area>
-                            <area>16,40</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1072</flat_id>
-                        <apartment>72</apartment>
-                        <floor>1</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-74,22.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>4 900 000</price>
-                        <area>74,82</area>
-                        <kitchen_area>11,40</kitchen_area>
-                        <living_area>44,65</living_area>
-                        <rooms_area>
-                            <area>11,85</area>
-                            <area>14,78</area>
-                            <area>18,02</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1073</flat_id>
-                        <apartment>73</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-34,74.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2800000</price>
-                        <area>35,19</area>
-                        <kitchen_area>9,81</kitchen_area>
-                        <living_area>15,44</living_area>
-                        <rooms_area>
-                            <area>15,44</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1074</flat_id>
-                        <apartment>74</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-34,03.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2800000</price>
-                        <area>34,98</area>
-                        <kitchen_area>6,82</kitchen_area>
-                        <living_area>15,61</living_area>
-                        <rooms_area>
-                            <area>15,61</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <!--************************************************************************************-->
-                    <!--<flat>
-                        <flat_id>10153</flat_id>
-                        <apartment>153</apartment>
-                        <floor>1</floor>
-                        <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-56,52.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price></price>
-                        <area>53,38</area>
+                        <price>3800000</price>
+                        <area>55,45</area>
                         <kitchen_area></kitchen_area>
                         <living_area></living_area>
                         <rooms_area>
@@ -211,39 +48,17 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>-->
-                    <flat>
-                        <flat_id>10154</flat_id>
-                        <apartment>154</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-34,14.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2800000</price>
-                        <area>34,82</area>
-                        <kitchen_area>9,07</kitchen_area>
-                        <living_area>16,14</living_area>
-                        <rooms_area>
-                            <area>16,14</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
                     </flat>
-                    <!--<flat>
-                        <flat_id>10157</flat_id>
-                        <apartment>157</apartment>
-                        <floor>1</floor>
+                    <flat>
+                        <flat_id>222</flat_id>
+                        <apartment>222</apartment>
+                        <floor>2</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,46.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-55,45.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price></price>
-                        <area>52,46</area>
+                        <price>3800000</price>
+                        <area>55,45</area>
                         <kitchen_area></kitchen_area>
                         <living_area></living_area>
                         <rooms_area>
@@ -255,12 +70,386 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>-->
-
+                    </flat>
+                    <flat>
+                        <flat_id>230</flat_id>
+                        <apartment>230</apartment>
+                        <floor>4</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-55,45.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3800000</price>
+                        <area>55,45</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>232</flat_id>
+                        <apartment>232</apartment>
+                        <floor>4</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-70,12.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4300000</price>
+                        <area>70,12</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>234</flat_id>
+                        <apartment>234</apartment>
+                        <floor>5</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-55,45.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3800000</price>
+                        <area>55,45</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>236</flat_id>
+                        <apartment>236</apartment>
+                        <floor>5</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-70,12.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4300000</price>
+                        <area>70,12</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>238</flat_id>
+                        <apartment>238</apartment>
+                        <floor>6</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-55,45.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3800000</price>
+                        <area>55,45</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>248</flat_id>
+                        <apartment>248</apartment>
+                        <floor>8</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-70,12.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4300000</price>
+                        <area>70,12</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>250</flat_id>
+                        <apartment>250</apartment>
+                        <floor>9</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-55,45.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3800000</price>
+                        <area>55,45</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>251</flat_id>
+                        <apartment>251</apartment>
+                        <floor>9</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-35,66.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>2700000</price>
+                        <area>35,66</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
 
                     <!--8 подъезд-->
-                    <!--2 этаж-->
-                    <!--************************************************************************************-->
+
+                    <flat>
+                        <flat_id>253</flat_id>
+                        <apartment>253</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-71,30.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4300000</price>
+                        <area>71,30</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+                    <!--9 подъезд-->
+                    <flat>
+                        <flat_id>296</flat_id>
+                        <apartment>296</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>1800000</price>
+                        <area>17,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>304</flat_id>
+                        <apartment>304</apartment>
+                        <floor>2</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>1800000</price>
+                        <area>17,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>312</flat_id>
+                        <apartment>312</apartment>
+                        <floor>3</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>1800000</price>
+                        <area>17,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>328</flat_id>
+                        <apartment>328</apartment>
+                        <floor>5</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>1800000</price>
+                        <area>17,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>336</flat_id>
+                        <apartment>336</apartment>
+                        <floor>6</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>1800000</price>
+                        <area>17,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>344</flat_id>
+                        <apartment>344</apartment>
+                        <floor>7</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>1800000</price>
+                        <area>17,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>352</flat_id>
+                        <apartment>352</apartment>
+                        <floor>8</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>1800000</price>
+                        <area>17,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>360</flat_id>
+                        <apartment>360</apartment>
+                        <floor>9</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>1800000</price>
+                        <area>17,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
 
 
 
