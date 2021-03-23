@@ -1,6 +1,6 @@
 <complexes>
     <complex>
-        <id>11106</id>
+        <id>157093</id>
         <name>ЖК «Новый квартал»</name>
         <latitude>64,535182</latitude>
         <longitude>40,605755</longitude>
@@ -13,7 +13,7 @@
 
         <buildings>
             <building>
-                <id>157093</id>
+                <id>11106</id>
                 <fz_214>1</fz_214>
                 <name>ЖК «Новый квартал»</name>
                 <floors>14</floors>
@@ -298,7 +298,7 @@
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area></kitchen_area>
+                        <kitchen_area>0</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
                             <area>10,04</area>
@@ -320,7 +320,7 @@
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area></kitchen_area>
+                        <kitchen_area>0</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
                             <area>10,04</area>
@@ -342,7 +342,7 @@
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area></kitchen_area>
+                        <kitchen_area>0</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
                             <area>10,04</area>
@@ -364,7 +364,7 @@
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area></kitchen_area>
+                        <kitchen_area>0</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
                             <area>10,04</area>
@@ -386,7 +386,7 @@
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area></kitchen_area>
+                        <kitchen_area>0</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
                             <area>10,04</area>
@@ -408,7 +408,7 @@
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area></kitchen_area>
+                        <kitchen_area>0</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
                             <area>10,04</area>
@@ -430,7 +430,7 @@
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area></kitchen_area>
+                        <kitchen_area>0</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
                             <area>10,04</area>
@@ -452,7 +452,7 @@
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area></kitchen_area>
+                        <kitchen_area>0</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
                             <area>10,04</area>
