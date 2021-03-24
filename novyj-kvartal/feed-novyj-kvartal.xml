@@ -8,7 +8,6 @@
         <images>
             <image>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/bg.jpg</image>
             <image>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/plan.jpg</image>
-<!--            <image>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/map.jpg</image>-->
         </images>
 
         <buildings>
@@ -292,16 +291,16 @@
                         <flat_id>296</flat_id>
                         <apartment>296</apartment>
                         <floor>1</floor>
-                        <room>1</room>
+                        <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area>0</kitchen_area>
+                        <kitchen_area>5,00</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
-                            <area>10,04</area>
+                            <area>8,10</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -314,16 +313,16 @@
                         <flat_id>304</flat_id>
                         <apartment>304</apartment>
                         <floor>2</floor>
-                        <room>1</room>
+                        <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area>0</kitchen_area>
+                        <kitchen_area>5,00</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
-                            <area>10,04</area>
+                            <area>8,10</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -336,16 +335,16 @@
                         <flat_id>312</flat_id>
                         <apartment>312</apartment>
                         <floor>3</floor>
-                        <room>1</room>
+                        <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area>0</kitchen_area>
+                        <kitchen_area>5,00</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
-                            <area>10,04</area>
+                            <area>8,10</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -358,16 +357,16 @@
                         <flat_id>328</flat_id>
                         <apartment>328</apartment>
                         <floor>5</floor>
-                        <room>1</room>
+                        <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area>0</kitchen_area>
+                        <kitchen_area>5,00</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
-                            <area>10,04</area>
+                            <area>8,10</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -380,16 +379,16 @@
                         <flat_id>336</flat_id>
                         <apartment>336</apartment>
                         <floor>6</floor>
-                        <room>1</room>
+                        <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area>0</kitchen_area>
+                        <kitchen_area>5,00</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
-                            <area>10,04</area>
+                            <area>8,10</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -402,16 +401,16 @@
                         <flat_id>344</flat_id>
                         <apartment>344</apartment>
                         <floor>7</floor>
-                        <room>1</room>
+                        <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area>0</kitchen_area>
+                        <kitchen_area>5,00</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
-                            <area>10,04</area>
+                            <area>8,10</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -424,16 +423,16 @@
                         <flat_id>352</flat_id>
                         <apartment>352</apartment>
                         <floor>8</floor>
-                        <room>1</room>
+                        <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area>0</kitchen_area>
+                        <kitchen_area>5,00</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
-                            <area>10,04</area>
+                            <area>8,10</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -446,16 +445,16 @@
                         <flat_id>360</flat_id>
                         <apartment>360</apartment>
                         <floor>9</floor>
-                        <room>1</room>
+                        <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/novyj-kvartal/img/floor/apartment-17,00.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>1800000</price>
                         <area>17,00</area>
-                        <kitchen_area>0</kitchen_area>
+                        <kitchen_area>5,00</kitchen_area>
                         <living_area>10,04</living_area>
                         <rooms_area>
-                            <area>10,04</area>
+                            <area>8,10</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
