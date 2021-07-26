@@ -98,7 +98,7 @@
                     </flat>
 
                     <!--************************************************************************************-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1071</flat_id>
                         <apartment>71</apartment>
                         <floor>1</floor>
@@ -119,7 +119,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1072</flat_id>
                         <apartment>72</apartment>
@@ -378,7 +378,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>
                     <!--************************************************************************************-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1075</flat_id>
                         <apartment>75</apartment>
                         <floor>2</floor>
@@ -399,7 +399,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1076</flat_id>
                         <apartment>76</apartment>
@@ -772,7 +772,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>
                     <!--************************************************************************************-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1080</flat_id>
                         <apartment>80</apartment>
                         <floor>3</floor>
@@ -793,7 +793,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <!--<flat>-->
                         <!--<flat_id>1081</flat_id>-->
                         <!--<apartment>81</apartment>-->
@@ -4514,7 +4514,7 @@
 <!--                        <ready_housing>0</ready_housing>-->
 <!--                    </flat>-->
                     <!--************************************************************************************-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10134</flat_id>
                         <apartment>134</apartment>
                         <floor>12</floor>
@@ -4535,7 +4535,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>10135</flat_id>
                         <apartment>135</apartment>
@@ -4929,7 +4929,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>
                     <!--************************************************************************************-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10140</flat_id>
                         <apartment>140</apartment>
                         <floor>13</floor>
@@ -4950,7 +4950,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>10141</flat_id>
                         <apartment>141</apartment>
@@ -5344,7 +5344,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>
                     <!--************************************************************************************-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10146</flat_id>
                         <apartment>146</apartment>
                         <floor>14</floor>
@@ -5365,7 +5365,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>10147</flat_id>
                         <apartment>147</apartment>
