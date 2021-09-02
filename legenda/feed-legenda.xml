@@ -35,12 +35,12 @@
                         <renovation>нет</renovation>
                         <price>4731000</price>
                         <area>52,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>15,60</kitchen_area>
+                        <living_area>21,64</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>15,60</area>
+                            <area>11,23</area>
+                            <area>10,41</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -59,11 +59,11 @@
                         <renovation>нет</renovation>
                         <price>4101300</price>
                         <area>45,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,52</kitchen_area>
+                        <living_area>17,90</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>16,52</area>
+                            <area>17,90</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -105,12 +105,12 @@
                         <renovation>нет</renovation>
                         <price>4931790</price>
                         <area>53,03</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,42</kitchen_area>
+                        <living_area>21,52</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>16,45</area>
+                            <area>10,78</area>
+                            <area>10,74</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -132,10 +132,10 @@
                         <renovation>нет</renovation>
                         <price>33536800</price>
                         <area>32,56</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>10,03</kitchen_area>
+                        <living_area>13,27</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>13,27</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -154,12 +154,12 @@
                         <renovation>нет</renovation>
                         <price>4759200</price>
                         <area>52,88</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>14,82</kitchen_area>
+                        <living_area>24,94</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>11,00</area>
+                            <area>13,94</area>
+                            <area>14,82</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -178,10 +178,10 @@
                         <renovation>нет</renovation>
                         <price>3366000</price>
                         <area>37,40</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>11,35</kitchen_area>
+                        <living_area>14,64</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>14,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -200,13 +200,13 @@
                         <renovation>нет</renovation>
                         <price>7161300</price>
                         <area>79,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>20,48</kitchen_area>
+                        <living_area>40,55</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>20,48</area>
+                            <area>12,13</area>
+                            <area>12,78</area>
+                            <area>15,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -249,12 +249,11 @@
                         <renovation>нет</renovation>
                         <price>5801400</price>
                         <area>64,46</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>22,47</kitchen_area>
+                        <living_area>28,00</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>12,18</area>
+                            <area>15,82</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -273,12 +272,12 @@
                         <renovation>нет</renovation>
                         <price>4962480</price>
                         <area>53,36</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,90</kitchen_area>
+                        <living_area>21,34</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>16,90</area>
+                            <area>11,00</area>
+                            <area>10,34</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -297,10 +296,10 @@
                         <renovation>нет</renovation>
                         <price>3572950</price>
                         <area>37,61</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>11,43</kitchen_area>
+                        <living_area>14,62</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>14,62</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -319,10 +318,12 @@
                         <renovation>нет</renovation>
                         <price>6260760</price>
                         <area>67,32</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>20,54</kitchen_area>
+                        <living_area>32,09</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>20,54</area>
+                            <area>13,45</area>
+                            <area>18,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -341,12 +342,11 @@
                         <renovation>нет</renovation>
                         <price>5544000</price>
                         <area>61,60</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>20,06</kitchen_area>
+                        <living_area>27,73</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>11,90</area>
+                            <area>15,83</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -369,12 +369,12 @@
                         <renovation>нет</renovation>
                         <price>4731300</price>
                         <area>52,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>15,60</kitchen_area>
+                        <living_area>21,64</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>15,60</area>
+                            <area>11,23</area>
+                            <area>10,41</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -393,11 +393,11 @@
                         <renovation>нет</renovation>
                         <price>4101300</price>
                         <area>45,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,52</kitchen_area>
+                        <living_area>17,90</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>16,52</area>
+                            <area>17,90</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -416,11 +416,11 @@
                         <renovation>нет</renovation>
                         <price>4101300</price>
                         <area>46,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>19,40</kitchen_area>
+                        <living_area>14,17</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>19,40</area>
+                            <area>14,17</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -439,13 +439,13 @@
                         <renovation>нет</renovation>
                         <price>8418400</price>
                         <area>99,04</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>24,73</kitchen_area>
+                        <living_area>46,06</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>24,73</area>
+                            <area>11,73</area>
+                            <area>16,45</area>
+                            <area>17,88</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -464,12 +464,12 @@
                         <renovation>нет</renovation>
                         <price>4931790</price>
                         <area>53,03</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,42</kitchen_area>
+                        <living_area>21,52</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>16,45</area>
+                            <area>10,78</area>
+                            <area>10,74</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -488,12 +488,12 @@
                         <renovation>нет</renovation>
                         <price>6134280</price>
                         <area>65,96</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>19,60</kitchen_area>
+                        <living_area>32,09</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>19,60</area>
+                            <area>13,45</area>
+                            <area>18,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -541,10 +541,10 @@
                         <renovation>нет</renovation>
                         <price>3366000</price>
                         <area>37,40</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>11,35</kitchen_area>
+                        <living_area>14,64</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>14,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -563,12 +563,11 @@
                         <renovation>нет</renovation>
                         <price>6176700</price>
                         <area>68,63</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>17,21</kitchen_area>
+                        <living_area>32,52</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>14,29</area>
+                            <area>18,23</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -587,11 +586,11 @@
                         <renovation>нет</renovation>
                         <price>4101300</price>
                         <area>45,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,52</kitchen_area>
+                        <living_area>17,90</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>16,52</area>
+                            <area>17,90</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -610,13 +609,13 @@
                         <renovation>нет</renovation>
                         <price>8418400</price>
                         <area>99,04</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>24,73</kitchen_area>
+                        <living_area>46,06</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>24,73</area>
+                            <area>11,73</area>
+                            <area>16,45</area>
+                            <area>17,88</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -635,12 +634,12 @@
                         <renovation>нет</renovation>
                         <price>4931790</price>
                         <area>53,03</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,42</kitchen_area>
+                        <living_area>21,52</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>16,45</area>
+                            <area>10,78</area>
+                            <area>10,74</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -659,12 +658,12 @@
                         <renovation>нет</renovation>
                         <price>6134280</price>
                         <area>65,96</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>19,60</kitchen_area>
+                        <living_area>32,09</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>19,60</area>
+                            <area>13,45</area>
+                            <area>18,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -686,12 +685,12 @@
                         <renovation>нет</renovation>
                         <price>4759200</price>
                         <area>52,88</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>14,82</kitchen_area>
+                        <living_area>24,94</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>11,00</area>
+                            <area>13,94</area>
+                            <area>14,82</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -710,10 +709,10 @@
                         <renovation>нет</renovation>
                         <price>3366000</price>
                         <area>37,40</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>11,35</kitchen_area>
+                        <living_area>14,64</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>14,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -780,12 +779,12 @@
                         <renovation>нет</renovation>
                         <price>4962480</price>
                         <area>53,36</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,90</kitchen_area>
+                        <living_area>21,34</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>16,90</area>
+                            <area>11,00</area>
+                            <area>10,34</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -804,10 +803,10 @@
                         <renovation>нет</renovation>
                         <price>3572950</price>
                         <area>37,61</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>11,43</kitchen_area>
+                        <living_area>14,62</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>14,62</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -826,12 +825,12 @@
                         <renovation>нет</renovation>
                         <price>6260760</price>
                         <area>67,32</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>20,54</kitchen_area>
+                        <living_area>32,09</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>20,54</area>
+                            <area>13,45</area>
+                            <area>18,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -850,12 +849,11 @@
                         <renovation>нет</renovation>
                         <price>5544000</price>
                         <area>61,60</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>20,06</kitchen_area>
+                        <living_area>27,73</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>11,90</area>
+                            <area>15,83</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -878,11 +876,11 @@
                         <renovation>нет</renovation>
                         <price>4545000</price>
                         <area>45,45</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>9,76</kitchen_area>
+                        <living_area>25,79</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>14,84</area>
+                            <area>10,95</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -901,12 +899,12 @@
                         <renovation>нет</renovation>
                         <price>4994150</price>
                         <area>52,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>15,60</kitchen_area>
+                        <living_area>21,64</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>15,60</area>
+                            <area>11,23</area>
+                            <area>10,41</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -925,11 +923,11 @@
                         <renovation>нет</renovation>
                         <price>4329150</price>
                         <area>45,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,52</kitchen_area>
+                        <living_area>17,90</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>16,52</area>
+                            <area>17,90</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -971,13 +969,13 @@
                         <renovation>нет</renovation>
                         <price>8913600</price>
                         <area>99,04</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>24,73</kitchen_area>
+                        <living_area>46,06</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>24,73</area>
+                            <area>11,73</area>
+                            <area>16,45</area>
+                            <area>17,88</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -996,10 +994,10 @@
                         <renovation>нет</renovation>
                         <price>3761000</price>
                         <area>37,61</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>11,43</kitchen_area>
+                        <living_area>14,62</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>14,62</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1018,12 +1016,12 @@
                         <renovation>нет</renovation>
                         <price>6464080</price>
                         <area>65,96</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>19,60</kitchen_area>
+                        <living_area>32,09</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>19,60</area>
+                            <area>13,45</area>
+                            <area>18,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1045,10 +1043,10 @@
                         <renovation>нет</renovation>
                         <price>3516480</price>
                         <area>32,56</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>10,03</kitchen_area>
+                        <living_area>13,27</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>13,27</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1067,12 +1065,12 @@
                         <renovation>нет</renovation>
                         <price>5023000</price>
                         <area>52,88</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>14,82</kitchen_area>
+                        <living_area>24,94</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>11,00</area>
+                            <area>13,94</area>
+                            <area>14,82</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1091,10 +1089,10 @@
                         <renovation>нет</renovation>
                         <price>3553000</price>
                         <area>37,40</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>11,35</kitchen_area>
+                        <living_area>14,64</living_area>
                         <rooms_area>
-                            <area></area>
+                            <area>14,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1113,13 +1111,13 @@
                         <renovation>нет</renovation>
                         <price>7559150</price>
                         <area>79,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>20,48</kitchen_area>
+                        <living_area>40,55</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>20,48</area>
+                            <area>12,13</area>
+                            <area>12,78</area>
+                            <area>15,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1186,12 +1184,12 @@
                         <renovation>нет</renovation>
                         <price>5229280</price>
                         <area>53,36</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,90</kitchen_area>
+                        <living_area>21,34</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>16,90</area>
+                            <area>11,00</area>
+                            <area>10,34</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1210,12 +1208,11 @@
                         <renovation>нет</renovation>
                         <price>5852000</price>
                         <area>61,60</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>20,06</kitchen_area>
+                        <living_area>27,73</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>11,90</area>
+                            <area>15,83</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1237,11 +1234,11 @@
                         <renovation>нет</renovation>
                         <price>4545000</price>
                         <area>45,45</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>9,76</kitchen_area>
+                        <living_area>25,79</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>14,84</area>
+                            <area>10,95</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1260,12 +1257,12 @@
                         <renovation>нет</renovation>
                         <price>4994150</price>
                         <area>52,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>15,60</kitchen_area>
+                        <living_area>21,64</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>15,60</area>
+                            <area>11,23</area>
+                            <area>10,41</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1284,11 +1281,11 @@
                         <renovation>нет</renovation>
                         <price>4329150</price>
                         <area>45,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>16,52</kitchen_area>
+                        <living_area>17,90</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>16,52</area>
+                            <area>17,90</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1330,13 +1327,13 @@
                         <renovation>нет</renovation>
                         <price>8913600</price>
                         <area>99,04</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>24,73</kitchen_area>
+                        <living_area>46,06</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>24,73</area>
+                            <area>11,73</area>
+                            <area>16,45</area>
+                            <area>17,88</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
