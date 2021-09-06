@@ -1,6 +1,6 @@
 <complexes>
     <complex>
-        <id>113803</id>
+        <id>115276</id>
         <name>ЖК "Легенда"</name>
         <latitude>64.56394255731045</latitude>
         <longitude>39.813557999999965</longitude>
@@ -11,7 +11,7 @@
 
         <buildings>
             <building>
-                <id>156486</id>
+                <id>162564</id>
                 <fz_214>1</fz_214>
                 <name>ЖК "Легенда"</name>
                 <floors>13</floors>
@@ -225,12 +225,11 @@
                         <renovation>нет</renovation>
                         <price>6176700</price>
                         <area>68,63</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>17,21</kitchen_area>
+                        <living_area>32,52</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>14,29</area>
+                            <area>18,23</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -731,12 +730,11 @@
                         <renovation>нет</renovation>
                         <price>6176700</price>
                         <area>68,63</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>17,21</kitchen_area>
+                        <living_area>32,52</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>14,29</area>
+                            <area>18,23</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1136,12 +1134,11 @@
                         <renovation>нет</renovation>
                         <price>6519850</price>
                         <area>68,63</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>17,21</kitchen_area>
+                        <living_area>32,52</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>14,29</area>
+                            <area>18,23</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
