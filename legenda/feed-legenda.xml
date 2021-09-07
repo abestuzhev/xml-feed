@@ -82,11 +82,11 @@
                         <renovation>нет</renovation>
                         <price>4191300</price>
                         <area>46,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>19,40</kitchen_area>
+                        <living_area>14,17</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>19,40</area>
+                            <area>14,17</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -516,12 +516,12 @@
                         <renovation>нет</renovation>
                         <price>4759200</price>
                         <area>52,88</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>14,82</kitchen_area>
+                        <living_area>24,94</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>11,00</area>
+                            <area>13,94</area>
+                            <area>14,82</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -753,12 +753,11 @@
                         <renovation>нет</renovation>
                         <price>5800500</price>
                         <area>64,45</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>22,47</kitchen_area>
+                        <living_area>28,00</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>12,18</area>
+                            <area>15,82</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -944,11 +943,11 @@
                         <renovation>нет</renovation>
                         <price>4424150</price>
                         <area>46,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>19,40</kitchen_area>
+                        <living_area>14,17</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>19,40</area>
+                            <area>14,17</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1157,12 +1156,11 @@
                         <renovation>нет</renovation>
                         <price>6122750</price>
                         <area>64,45</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>22,47</kitchen_area>
+                        <living_area>28,00</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>12,18</area>
+                            <area>15,82</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1301,11 +1299,11 @@
                         <renovation>нет</renovation>
                         <price>4424150</price>
                         <area>46,57</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>19,40</kitchen_area>
+                        <living_area>14,17</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>19,40</area>
+                            <area>14,17</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -1407,11 +1405,11 @@
             </work_days>
         </sales_info>
         <developer>
-            <id></id>
+<!--            <id></id>-->
             <name>ООО АН "Белое  море"</name>
             <phone>+7 960 009-29-99</phone>
             <site>http://xn--29-9kcqaa4bjqcw.xn--p1ai/arh/</site>
-            <logo></logo>
+<!--            <logo></logo>-->
         </developer>
     </complex>
 </complexes>
