@@ -1405,11 +1405,11 @@
             </work_days>
         </sales_info>
         <developer>
-<!--            <id></id>-->
+            <id></id>
             <name>ООО АН "Белое  море"</name>
             <phone>+7 960 009-29-99</phone>
             <site>http://xn--29-9kcqaa4bjqcw.xn--p1ai/arh/</site>
-<!--            <logo></logo>-->
+            <logo></logo>
         </developer>
     </complex>
 </complexes>
