@@ -100,7 +100,7 @@
                         <apartment>82</apartment>
                         <floor>1</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-53,03pg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-53,03.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4931790</price>
@@ -130,7 +130,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-32,56.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>33536800</price>
+                        <price>3353680</price>
                         <area>32,56</area>
                         <kitchen_area>10,03</kitchen_area>
                         <living_area>13,27</living_area>
