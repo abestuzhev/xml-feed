@@ -1360,8 +1360,8 @@
         </infrastructure>
 
         <sales_info>
-            <sales_phone>+79600092999</sales_phone>
-            <responsible_officer_phone>+79600092999</responsible_officer_phone>
+            <sales_phone>+79095518005</sales_phone>
+            <responsible_officer_phone>+79095518005</responsible_officer_phone>
             <sales_address>г. Архангельск, Ул. Поморская, 44</sales_address>
             <sales_latitude>64.53912605734402</sales_latitude>
             <sales_longitude>40.5332074999999</sales_longitude>
@@ -1407,7 +1407,7 @@
         <developer>
             <id>235470</id>
             <name>ООО АН "Белое  море"</name>
-            <phone>+7 960 009-29-99</phone>
+            <phone>+7-909-551-80-05</phone>
             <site>http://xn--29-9kcqaa4bjqcw.xn--p1ai/arh/</site>
             <logo>https://abestuzhev.github.io/xml-feed/legenda/img/logo.png</logo>
         </developer>
