@@ -176,7 +176,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-37,40.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3478200</price>
+                        <price>3553000</price>
                         <area>37,40</area>
                         <kitchen_area>11,35</kitchen_area>
                         <living_area>14,64</living_area>
@@ -530,7 +530,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1029</flat_id>
                         <apartment>29</apartment>
                         <floor>4</floor>
@@ -551,7 +551,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1033</flat_id>
                         <apartment>33</apartment>
@@ -1108,7 +1108,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-37,40.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3665200</price>
+                        <price>3740000</price>
                         <area>37,40</area>
                         <kitchen_area>11,35</kitchen_area>
                         <living_area>14,64</living_area>
@@ -1384,8 +1384,8 @@
         </infrastructure>
 
         <sales_info>
-            <sales_phone>+79642987178</sales_phone>
-            <responsible_officer_phone>+79642987178</responsible_officer_phone>
+            <sales_phone>+79095518005</sales_phone>
+            <responsible_officer_phone>+79095518005</responsible_officer_phone>
             <sales_address>г. Архангельск, Ул. Поморская, 44</sales_address>
             <sales_latitude>64.53912605734402</sales_latitude>
             <sales_longitude>40.5332074999999</sales_longitude>
@@ -1431,7 +1431,7 @@
         <developer>
             <id>235470</id>
             <name>ООО АН "Белое  море"</name>
-            <phone>+7(964)298-71-78</phone>
+            <phone>+7(909)551-80-05</phone>
             <site>http://xn--29-9kcqaa4bjqcw.xn--p1ai/arh/</site>
             <logo>https://abestuzhev.github.io/xml-feed/legenda/img/logo.png</logo>
         </developer>
