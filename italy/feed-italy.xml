@@ -1,0 +1,303 @@
+<complexes>
+    <complex>
+        <id>115275</id>
+        <name>ЖК "Маленькая Италия"</name>
+        <latitude>64.53780755737316</latitude>
+        <longitude>40.540752999999945</longitude>
+        <address>г. Архангельск, ул. Серафимовича, 52</address>
+        <images>
+            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-1.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-2.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-3.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-4.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-5.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-6.jpg</image>
+        </images>
+
+        <buildings>
+            <building>
+                <id>161576</id>
+                <fz_214>1</fz_214>
+                <name>ЖК "Маленькая Италия"</name>
+                <floors>8</floors>
+                <floors_ready>1</floors_ready>
+                <building_state>built</building_state>
+                <built_year>2023</built_year>
+                <ready_quarter>2</ready_quarter>
+                <building_phase>1</building_phase>
+                <building_type>кирпичный</building_type>
+                <image></image>
+                <flats>
+                    <flat>
+                        <flat_id>1001</flat_id>
+                        <apartment>1</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-75,66.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>6430930</price>
+                        <area>75,66</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1002</flat_id>
+                        <apartment>2</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-40,93.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3888160</price>
+                        <area>40,93</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1003</flat_id>
+                        <apartment>3</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-53,35.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4641276</price>
+                        <area>53,35</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1004</flat_id>
+                        <apartment>4</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-38,09.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3808800</price>
+                        <area>38,09</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1005</flat_id>
+                        <apartment>5</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-56,25.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4897056</price>
+                        <area>56,25</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1006</flat_id>
+                        <apartment>6</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-78,84.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>6464880</price>
+                        <area>78,84</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1007</flat_id>
+                        <apartment>7</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-43,93.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4217472</price>
+                        <area>43,93</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1012</flat_id>
+                        <apartment>12</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-56,25.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>5118568</price>
+                        <area>56,25</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+                </flats>
+
+            </building>
+
+        </buildings>
+        <description_main>
+            <title>ЖК «Маленькая Италия»</title>
+            <text>
+                ЖК «Маленькая Италия» в Архангельске – это комфортный 8-этажный жилой дом на пересечении пр.Советских Космонавтов и ул. Серафимовича.
+
+                Близость к историческому центру повлияло на выбор архитектурного облика. В результате получилась вечная классика, но с современным подходом. Жизнь в этом доме подарит вам спокойствие, вдохновение, энергию, комфорт и гармонию.
+
+                В доме «Маленькая Италия» всего 56 квартир от 38 до 79 кв.м., между которыми толстые стены.
+
+                Для строительства используются надежные и проверенные материалы, а планировочные решения, дизайнерская отделка холлов и уютный двор понравятся любой семье.
+
+                В каждой квартире разграничена гостевая и приватная зоны. В больших квартирах предусмотрен второй туалет, кладовые помещения, прачечные и гардеробные.
+
+                Украшение каждой квартиры − это панорамные окна в пол, чтобы наполнить комнаты светом и застекленные лоджии шириной 1,2 м, где можно обустроить зону отдыха.
+
+                В «Маленькой Италии» вы найдете квартиру, которая подойдет именно вашей семье!
+            </text>
+        </description_main>
+        <infrastructure>
+            <parking>Наземная</parking>
+            <security>0</security>
+            <fenced_area>1</fenced_area>
+            <sports_ground>1</sports_ground>
+            <playground>1</playground>
+            <school>1</school>
+            <kindergarten>1</kindergarten>
+        </infrastructure>
+
+        <sales_info>
+            <sales_phone>+79115555682</sales_phone>
+            <responsible_officer_phone>+79115555682</responsible_officer_phone>
+            <sales_address>Архангельск, наб. Северной Двины, 71 корп. 1</sales_address>
+            <sales_latitude>64.53260131911935</sales_latitude>
+            <sales_longitude>40.522306380950894</sales_longitude>
+            <timezone>+0</timezone>
+            <work_days>
+                <work_day>
+                    <day>пн</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>ср</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>чт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>пт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>сб</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вс</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+            </work_days>
+        </sales_info>
+        <developer>
+            <id>294142</id>
+            <name>ООО «ЕВРОДОМСТРОЙ»</name>
+            <phone>+7(911)555 56 82</phone>
+            <site></site>
+            <logo>https://abestuzhev.github.io/xml-feed/legenda/img/logo.jpg</logo>
+        </developer>
+    </complex>
+</complexes>
