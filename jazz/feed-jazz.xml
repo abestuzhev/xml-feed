@@ -1,0 +1,251 @@
+<complexes>
+    <complex>
+        <id>114331</id>
+        <name>ЖК "Джаз"</name>
+        <latitude>64.53861605734276</latitude>
+        <longitude>40.538093999999916</longitude>
+        <address>г. Архангельск, ул. Володарского, 54</address>
+        <images>
+            <image>https://abestuzhev.github.io/xml-feed/jazz/img/bg.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/jazz/img/bg-img-1.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/jazz/img/bg-img-2.jpg</image>
+        </images>
+
+        <buildings>
+            <building>
+                <id>158143</id>
+                <fz_214>1</fz_214>
+                <name>ЖК "Джаз"</name>
+                <floors>7</floors>
+                <floors_ready>1</floors_ready>
+                <building_state>built</building_state>
+                <built_year>2022</built_year>
+                <ready_quarter>4</ready_quarter>
+                <building_phase>1</building_phase>
+                <building_type>кирпичный</building_type>
+                <image></image>
+                <flats>
+                    <flat>
+                        <flat_id>1001</flat_id>
+                        <apartment>1</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/jazz/img/floor/apartment-77,53.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>6745110</price>
+                        <area>77,53</area>
+                        <kitchen_area>5,00</kitchen_area>
+                        <living_area>51,15</living_area>
+                        <rooms_area>
+                            <area>12,75</area>
+                            <area>16,31</area>
+                            <area>22,09</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1003</flat_id>
+                        <apartment>3</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/jazz/img/floor/apartment-82,44.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>6966180</price>
+                        <area>82,44</area>
+                        <kitchen_area>5,00</kitchen_area>
+                        <living_area>52,85</living_area>
+                        <rooms_area>
+                            <area>23,68</area>
+                            <area>15,19</area>
+                            <area>13,98</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1028</flat_id>
+                        <apartment>28</apartment>
+                        <floor>1</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/jazz/img/floor/apartment-25,99.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3118800</price>
+                        <area>25,99</area>
+                        <kitchen_area>00</kitchen_area>
+                        <living_area>00</living_area>
+                        <rooms_area>
+                            <area>00</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1031</flat_id>
+                        <apartment>31</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/jazz/img/floor/apartment-77,61.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>6984900</price>
+                        <area>77,61</area>
+                        <kitchen_area>00</kitchen_area>
+                        <living_area>00</living_area>
+                        <rooms_area>
+                            <area>00</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1047</flat_id>
+                        <apartment>47</apartment>
+                        <floor>4</floor>
+                        <room>4</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/jazz/img/floor/apartment-91,31.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>9952790</price>
+                        <area>91,31</area>
+                        <kitchen_area>11,22</kitchen_area>
+                        <living_area>49,11</living_area>
+                        <rooms_area>
+                            <area>11,58</area>
+                            <area>11,24</area>
+                            <area>9,48</area>
+                            <area>16,81</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1050</flat_id>
+                        <apartment>50</apartment>
+                        <floor>5</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/jazz/img/floor/apartment-52,00.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>5563893</price>
+                        <area>52,00</area>
+                        <kitchen_area></kitchen_area>
+                        <living_area></living_area>
+                        <rooms_area>
+                            <area></area>
+                            <area></area>
+                            <area></area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                </flats>
+
+            </building>
+
+        </buildings>
+        <description_main>
+            <title>ЖК «Джаз»</title>
+            <text>
+                Жилой комплекс «Джаз» в центре Архангельска – это компактный, современный 7-этажный жилой дом на пересечении пр.Советских Космонавтов и ул. Володарского.
+
+                Локация − это всегда сильная сторона любого проекта. Жилой комплекс «Джаз» располагается близко к культурному, бытовому и деловому центру, что дает много преимуществ. Небольшая удаленность от основных транспортных магистралей создает тишину и дарит возможность с комфортом открыть окна в теплый летний день.
+
+                Мы не продаем квадратные метры, мы предлагаем эмоции!
+
+                Дома от EDS group – это панорамные окна, красивая архитектура, надежные конструкции, благоустроенные дворы, небольшое количество квартир в доме и соседей на лестничной площадке, дизайнерская отделка холлов, а также постоянное качество и его контроль.
+
+                В каждой квартире разграничена гостевая и приватная зоны. В больших квартирах предусмотрен второй туалет, кладовые помещения, прачечные и гардеробные. В доме предусмотрено большое разнообразие планировочных решений, которые подойдут для любой семьи.
+            </text>
+        </description_main>
+        <infrastructure>
+            <parking>Наземная</parking>
+            <security>0</security>
+            <fenced_area>1</fenced_area>
+            <sports_ground>1</sports_ground>
+            <playground>1</playground>
+            <school>1</school>
+            <kindergarten>1</kindergarten>
+        </infrastructure>
+
+        <sales_info>
+            <sales_phone>+79115555682</sales_phone>
+            <responsible_officer_phone>+79115555682</responsible_officer_phone>
+            <sales_address>Архангельск, наб. Северной Двины, 71 корп. 1</sales_address>
+            <sales_latitude>64.53260131911935</sales_latitude>
+            <sales_longitude>40.522306380950894</sales_longitude>
+            <timezone>+0</timezone>
+            <work_days>
+                <work_day>
+                    <day>пн</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>ср</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>чт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>пт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>сб</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вс</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+            </work_days>
+        </sales_info>
+        <developer>
+            <id>294142</id>
+            <name>ООО «ЕВРОДОМСТРОЙ»</name>
+            <phone>+7(911)555 56 82</phone>
+            <site></site>
+            <logo>https://abestuzhev.github.io/xml-feed/jazz/img/logo.jpg</logo>
+        </developer>
+    </complex>
+</complexes>

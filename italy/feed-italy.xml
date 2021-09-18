@@ -6,13 +6,13 @@
         <longitude>40.540752999999945</longitude>
         <address>г. Архангельск, ул. Серафимовича, 52</address>
         <images>
-            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg.jpg</image>
-            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-1.jpg</image>
-            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-2.jpg</image>
-            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-3.jpg</image>
-            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-4.jpg</image>
-            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-5.jpg</image>
-            <image>https://abestuzhev.github.io/xml-feed/legenda/img/bg-img-6.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/italy/img/bg.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/italy/img/bg-img-1.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/italy/img/bg-img-2.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/italy/img/bg-img-3.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/italy/img/bg-img-4.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/italy/img/bg-img-5.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/italy/img/bg-img-6.jpg</image>
         </images>
 
         <buildings>
@@ -34,16 +34,17 @@
                         <apartment>1</apartment>
                         <floor>1</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-75,66.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-75,66.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6430930</price>
                         <area>75,66</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>5,04</kitchen_area>
+                        <living_area>46,48</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>16,27</area>
+                            <area>13,40</area>
+                            <area>16,81</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -57,16 +58,16 @@
                         <apartment>2</apartment>
                         <floor>1</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-40,93.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-40,93.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3888160</price>
                         <area>40,93</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>5,02</kitchen_area>
+                        <living_area>26,62</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>12,87</area>
+                            <area>13,75</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -80,16 +81,16 @@
                         <apartment>3</apartment>
                         <floor>1</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-53,35.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-53,35.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4641276</price>
                         <area>53,35</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>8,42</kitchen_area>
+                        <living_area>31,72</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>14,95</area>
+                            <area>16,77</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -103,16 +104,15 @@
                         <apartment>4</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-38,09.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-38,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3808800</price>
                         <area>38,09</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>8,81</kitchen_area>
+                        <living_area>18,40</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>18,40</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -126,16 +126,17 @@
                         <apartment>5</apartment>
                         <floor>1</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-56,25.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-56,25.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4897056</price>
                         <area>56,25</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>5,08</kitchen_area>
+                        <living_area>34,64</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>13,62</area>
+                            <area>12,33</area>
+                            <area>8,69</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -149,16 +150,17 @@
                         <apartment>6</apartment>
                         <floor>1</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-78,84.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-78,84.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6464880</price>
                         <area>78,84</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>5,10</kitchen_area>
+                        <living_area>49,16</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>17,14</area>
+                            <area>12,41</area>
+                            <area>19,61</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -172,16 +174,16 @@
                         <apartment>7</apartment>
                         <floor>1</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-43,93.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-43,93.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4217472</price>
                         <area>43,93</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>5,09</kitchen_area>
+                        <living_area>27,90</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>13,11</area>
+                            <area>14,79</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -195,16 +197,321 @@
                         <apartment>12</apartment>
                         <floor>1</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-56,25.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-56,25.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5118568</price>
                         <area>56,25</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>5,08</kitchen_area>
+                        <living_area>34,64</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
+                            <area>13,62</area>
+                            <area>12,33</area>
+                            <area>8,69</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1013</flat_id>
+                        <apartment>13</apartment>
+                        <floor>2</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-78,64.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>6841680</price>
+                        <area>78,64</area>
+                        <kitchen_area>5,10</kitchen_area>
+                        <living_area>49,16</living_area>
+                        <rooms_area>
+                            <area>17,14</area>
+                            <area>12,41</area>
+                            <area>19,61</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1015</flat_id>
+                        <apartment>15</apartment>
+                        <floor>3</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-75,46.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>7319426</price>
+                        <area>75,46</area>
+                        <kitchen_area>5,04</kitchen_area>
+                        <living_area>46,48</living_area>
+                        <rooms_area>
+                            <area>16,27</area>
+                            <area>13,40</area>
+                            <area>16,81</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1019</flat_id>
+                        <apartment>19</apartment>
+                        <floor>3</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-56,25.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>5343560</price>
+                        <area>56,25</area>
+                        <kitchen_area>5,08</kitchen_area>
+                        <living_area>34,64</living_area>
+                        <rooms_area>
+                            <area>13,62</area>
+                            <area>12,33</area>
+                            <area>8,69</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1020</flat_id>
+                        <apartment>20</apartment>
+                        <floor>3</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-78,64.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>7077600</price>
+                        <area>78,64</area>
+                        <kitchen_area>5,10</kitchen_area>
+                        <living_area>49,16</living_area>
+                        <rooms_area>
+                            <area>17,14</area>
+                            <area>12,41</area>
+                            <area>19,61</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1025</flat_id>
+                        <apartment>25</apartment>
+                        <floor>4</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-38,09.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3884976</price>
+                        <area>38,09</area>
+                        <kitchen_area>8,81</kitchen_area>
+                        <living_area>18,40</living_area>
+                        <rooms_area>
+                            <area>18,40</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1026</flat_id>
+                        <apartment>26</apartment>
+                        <floor>4</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-56,25.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>5231064</price>
+                        <area>56,25</area>
+                        <kitchen_area>5,08</kitchen_area>
+                        <living_area>34,64</living_area>
+                        <rooms_area>
+                            <area>13,62</area>
+                            <area>12,33</area>
+                            <area>8,69</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1027</flat_id>
+                        <apartment>27</apartment>
+                        <floor>4</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-78,64.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>7077600</price>
+                        <area>78,64</area>
+                        <kitchen_area>5,10</kitchen_area>
+                        <living_area>49,16</living_area>
+                        <rooms_area>
+                            <area>17,14</area>
+                            <area>12,41</area>
+                            <area>19,61</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1032</flat_id>
+                        <apartment>32</apartment>
+                        <floor>5</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-38,09.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3961152</price>
+                        <area>38,09</area>
+                        <kitchen_area>8,81</kitchen_area>
+                        <living_area>18,40</living_area>
+                        <rooms_area>
+                            <area>18,40</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1034</flat_id>
+                        <apartment>34</apartment>
+                        <floor>5</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-78,64.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>7234880</price>
+                        <area>78,64</area>
+                        <kitchen_area>5,10</kitchen_area>
+                        <living_area>49,16</living_area>
+                        <rooms_area>
+                            <area>17,14</area>
+                            <area>12,41</area>
+                            <area>19,61</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1040</flat_id>
+                        <apartment>40</apartment>
+                        <floor>6</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-56,25.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>5906040</price>
+                        <area>56,25</area>
+                        <kitchen_area>5,08</kitchen_area>
+                        <living_area>34,64</living_area>
+                        <rooms_area>
+                            <area>13,62</area>
+                            <area>12,33</area>
+                            <area>8,69</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1046</flat_id>
+                        <apartment>46</apartment>
+                        <floor>7</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-38,09.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>3961152</price>
+                        <area>38,09</area>
+                        <kitchen_area>8,81</kitchen_area>
+                        <living_area>18,40</living_area>
+                        <rooms_area>
+                            <area>18,40</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1053</flat_id>
+                        <apartment>53</apartment>
+                        <floor>8</floor>
+                        <room>1</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-38,09.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>4189680</price>
+                        <area>38,09</area>
+                        <kitchen_area>8,81</kitchen_area>
+                        <living_area>18,40</living_area>
+                        <rooms_area>
+                            <area>18,40</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1055</flat_id>
+                        <apartment>55</apartment>
+                        <floor>5</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/italy/img/floor/apartment-78,64.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>7706720</price>
+                        <area>78,64</area>
+                        <kitchen_area>5,10</kitchen_area>
+                        <living_area>49,16</living_area>
+                        <rooms_area>
+                            <area>17,14</area>
+                            <area>12,41</area>
+                            <area>19,61</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -297,7 +604,7 @@
             <name>ООО «ЕВРОДОМСТРОЙ»</name>
             <phone>+7(911)555 56 82</phone>
             <site></site>
-            <logo>https://abestuzhev.github.io/xml-feed/legenda/img/logo.jpg</logo>
+            <logo>https://abestuzhev.github.io/xml-feed/italy/img/logo.jpg</logo>
         </developer>
     </complex>
 </complexes>
