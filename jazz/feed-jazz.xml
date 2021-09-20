@@ -83,10 +83,10 @@
                         <renovation>нет</renovation>
                         <price>3118800</price>
                         <area>25,99</area>
-                        <kitchen_area>00</kitchen_area>
-                        <living_area>00</living_area>
+                        <kitchen_area>5,00</kitchen_area>
+                        <living_area>13,80</living_area>
                         <rooms_area>
-                            <area>00</area>
+                            <area>13,80</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -100,15 +100,17 @@
                         <apartment>31</apartment>
                         <floor>1</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/jazz/img/floor/apartment-77,61.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/jazz/img/floor/apartment-77,53.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6984900</price>
                         <area>77,61</area>
-                        <kitchen_area>00</kitchen_area>
-                        <living_area>00</living_area>
+                        <kitchen_area>5,00</kitchen_area>
+                        <living_area>51,15</living_area>
                         <rooms_area>
-                            <area>00</area>
+                            <area>12,75</area>
+                            <area>16,31</area>
+                            <area>22,09</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
