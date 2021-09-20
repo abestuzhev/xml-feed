@@ -154,12 +154,12 @@
                         <renovation>нет</renovation>
                         <price>5563893</price>
                         <area>52,00</area>
-                        <kitchen_area></kitchen_area>
-                        <living_area></living_area>
+                        <kitchen_area>5,00</kitchen_area>
+                        <living_area>35,71</living_area>
                         <rooms_area>
-                            <area></area>
-                            <area></area>
-                            <area></area>
+                            <area>12,04</area>
+                            <area>11,84</area>
+                            <area>11,83</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
