@@ -57,7 +57,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-45,57.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4101300</price>
+                        <price>4215225</price>
                         <area>45,57</area>
                         <kitchen_area>16,52</kitchen_area>
                         <living_area>17,90</living_area>
@@ -80,7 +80,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-46,57.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4191300</price>
+                        <price>4307725</price>
                         <area>46,57</area>
                         <kitchen_area>19,40</kitchen_area>
                         <living_area>14,17</living_area>
@@ -390,7 +390,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-45,57.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4101300</price>
+                        <price>4215225</price>
                         <area>45,57</area>
                         <kitchen_area>16,52</kitchen_area>
                         <living_area>17,90</living_area>
@@ -405,7 +405,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1023</flat_id>
                         <apartment>23</apartment>
                         <floor>3</floor>
@@ -427,7 +427,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1094</flat_id>
                         <apartment>94</apartment>
@@ -607,7 +607,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-45,57.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4101300</price>
+                        <price>4215225</price>
                         <area>45,57</area>
                         <kitchen_area>16,52</kitchen_area>
                         <living_area>17,90</living_area>
@@ -942,7 +942,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-45,57.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4329150</price>
+                        <price>4443075</price>
                         <area>45,57</area>
                         <kitchen_area>16,52</kitchen_area>
                         <living_area>17,90</living_area>
@@ -965,7 +965,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-46,57.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4424150</price>
+                        <price>4540575</price>
                         <area>46,57</area>
                         <kitchen_area>19,40</kitchen_area>
                         <living_area>14,17</living_area>
@@ -1062,7 +1062,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-32,56.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>6584600</price>
+                        <price>3581600</price>
                         <area>32,56</area>
                         <kitchen_area>10,03</kitchen_area>
                         <living_area>13,27</living_area>
@@ -1298,7 +1298,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-45,57.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4329150</price>
+                        <price>4443075</price>
                         <area>45,57</area>
                         <kitchen_area>16,52</kitchen_area>
                         <living_area>17,90</living_area>
@@ -1321,7 +1321,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-46,57.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4424150</price>
+                        <price>4540575</price>
                         <area>46,57</area>
                         <kitchen_area>19,40</kitchen_area>
                         <living_area>14,17</living_area>
