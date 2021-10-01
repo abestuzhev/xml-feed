@@ -476,7 +476,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-42,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3900000</price>
+                        <price>4000000</price>
                         <area>42,18</area>
                         <kitchen_area>4,97</kitchen_area>
                         <living_area>29,54</living_area>
@@ -500,7 +500,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,35.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4400000</price>
+                        <price>4600000</price>
                         <area>52,35</area>
                         <kitchen_area>9,29</kitchen_area>
                         <living_area>31,38</living_area>
@@ -537,7 +537,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10160</flat_id>
                         <apartment>160</apartment>
                         <floor>2</floor>
@@ -558,7 +558,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>10161</flat_id>
                         <apartment>161</apartment>
@@ -636,7 +636,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,01.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4400000</price>
+                        <price>4600000</price>
                         <area>52,01</area>
                         <kitchen_area>9,11</kitchen_area>
                         <living_area>31,38</living_area>
@@ -870,7 +870,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-42,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3900000</price>
+                        <price>4000000</price>
                         <area>42,18</area>
                         <kitchen_area>4,97</kitchen_area>
                         <living_area>29,54</living_area>
@@ -917,7 +917,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,35.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4400000</price>
+                        <price>4600000</price>
                         <area>52,35</area>
                         <kitchen_area>9,29</kitchen_area>
                         <living_area>31,38</living_area>
@@ -1053,7 +1053,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,01.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4400000</price>
+                        <price>4600000</price>
                         <area>52,01</area>
                         <kitchen_area>9,11</kitchen_area>
                         <living_area>31,38</living_area>
@@ -1287,7 +1287,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-42,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3900000</price>
+                        <price>4000000</price>
                         <area>42,18</area>
                         <kitchen_area>4,97</kitchen_area>
                         <living_area>29,54</living_area>
@@ -1333,7 +1333,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,35.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4400000</price>
+                        <price>4600000</price>
                         <area>52,35</area>
                         <kitchen_area>9,29</kitchen_area>
                         <living_area>31,38</living_area>
@@ -1749,7 +1749,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,35.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4400000</price>
+                        <price>4600000</price>
                         <area>52,35</area>
                         <kitchen_area>9,29</kitchen_area>
                         <living_area>31,38</living_area>
@@ -2120,7 +2120,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-42,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3900000</price>
+                        <price>4000000</price>
                         <area>42,18</area>
                         <kitchen_area>4,97</kitchen_area>
                         <living_area>29,54</living_area>
@@ -2998,7 +2998,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,35.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4400000</price>
+                        <price>4600000</price>
                         <area>52,35</area>
                         <kitchen_area>9,29</kitchen_area>
                         <living_area>31,38</living_area>
@@ -3367,7 +3367,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-42,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3900000</price>
+                        <price>4000000</price>
                         <area>42,18</area>
                         <kitchen_area>4,97</kitchen_area>
                         <living_area>29,54</living_area>
@@ -3575,7 +3575,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -3782,7 +3782,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-42,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3900000</price>
+                        <price>4000000</price>
                         <area>42,18</area>
                         <kitchen_area>4,97</kitchen_area>
                         <living_area>29,54</living_area>
@@ -3990,7 +3990,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -4235,7 +4235,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>-->
                     <!--************************************************************************************-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10221</flat_id>
                         <apartment>221</apartment>
                         <floor>11</floor>
@@ -4257,7 +4257,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <!--<flat>
                         <flat_id>10222</flat_id>
                         <apartment>222</apartment>
@@ -4379,7 +4379,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,01.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,01</area>
                         <kitchen_area>9,11</kitchen_area>
                         <living_area>31,38</living_area>
@@ -4658,7 +4658,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,35.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,35</area>
                         <kitchen_area>9,29</kitchen_area>
                         <living_area>31,38</living_area>
@@ -4820,7 +4820,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -5027,7 +5027,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-42,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3900000</price>
+                        <price>4000000</price>
                         <area>42,18</area>
                         <kitchen_area>4,97</kitchen_area>
                         <living_area>29,54</living_area>
@@ -5073,7 +5073,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,35.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,35</area>
                         <kitchen_area>9,29</kitchen_area>
                         <living_area>31,38</living_area>
@@ -5209,7 +5209,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,01.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,01</area>
                         <kitchen_area>9,11</kitchen_area>
                         <living_area>31,38</living_area>
@@ -5235,7 +5235,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -5442,7 +5442,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-42,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>3900000</price>
+                        <price>4000000</price>
                         <area>42,18</area>
                         <kitchen_area>4,97</kitchen_area>
                         <living_area>29,54</living_area>
@@ -5547,7 +5547,7 @@
                         <!--<decoration>0</decoration>-->
                         <!--<ready_housing>0</ready_housing>-->
                     <!--</flat>-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10245</flat_id>
                         <apartment>245</apartment>
                         <floor>14</floor>
@@ -5568,7 +5568,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>10246</flat_id>
                         <apartment>246</apartment>
@@ -5577,7 +5577,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,54.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4500000</price>
+                        <price>4700000</price>
                         <area>52,54</area>
                         <kitchen_area>9,56</kitchen_area>
                         <living_area>31,15</living_area>
@@ -5616,7 +5616,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10248</flat_id>
                         <apartment>248</apartment>
                         <floor>14</floor>
@@ -5638,7 +5638,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
 
 
                 </flats>
