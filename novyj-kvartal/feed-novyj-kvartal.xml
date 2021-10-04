@@ -26,7 +26,7 @@
                 <flats>
                     <!--************************************************************************************-->
                     <!--7 подъезд-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>218</flat_id>
                         <apartment>218</apartment>
                         <floor>1</floor>
@@ -462,7 +462,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                 </flats>
 
             </building>
