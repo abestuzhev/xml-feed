@@ -742,7 +742,7 @@
                     <!-- ************************************************** -->
 
                     <!-- 6 floor -->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1045</flat_id>
                         <apartment>45</apartment>
                         <floor>6</floor>
@@ -765,7 +765,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <!-- <flat>
                         <flat_id>1047</flat_id>
                         <apartment>47</apartment>
