@@ -1219,7 +1219,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-74,22.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>5300000</price>
+                        <price>6500000</price>
                         <area>74,22</area>
                         <kitchen_area>11,40</kitchen_area>
                         <living_area>44,65</living_area>
@@ -3575,7 +3575,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4700000</price>
+                        <price>5000000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -3990,7 +3990,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4700000</price>
+                        <price>5000000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -4371,7 +4371,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10227</flat_id>
                         <apartment>227</apartment>
                         <floor>11</floor>
@@ -4379,7 +4379,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,01.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4700000</price>
+                        <price>5000000</price>
                         <area>52,01</area>
                         <kitchen_area>9,11</kitchen_area>
                         <living_area>31,38</living_area>
@@ -4393,7 +4393,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
 
                     <!--12 -->
                     <!--************************************************************************************-->
@@ -4820,7 +4820,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4700000</price>
+                        <price>5000000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -5235,7 +5235,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4700000</price>
+                        <price>5000000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -5569,7 +5569,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat> -->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>10246</flat_id>
                         <apartment>246</apartment>
                         <floor>14</floor>
@@ -5591,7 +5591,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <!--<flat>
                         <flat_id>10247</flat_id>
                         <apartment>247</apartment>
