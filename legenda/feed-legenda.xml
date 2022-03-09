@@ -307,7 +307,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1013</flat_id>
                         <apartment>13</apartment>
                         <floor>2</floor>
@@ -331,7 +331,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1015</flat_id>
                         <apartment>15</apartment>
@@ -1047,6 +1047,31 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat> -->
+                    <flat>
+                        <flat_id>1040</flat_id>
+                        <apartment>40</apartment>
+                        <floor>5</floor>
+                        <room>4</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-79,57.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>8 927 754 </price>
+                        <area>79,57</area>
+                        <kitchen_area>20,48</kitchen_area>
+                        <living_area>40,55</living_area>
+                        <rooms_area>
+                            <area>20,48</area>
+                            <area>12,13</area>
+                            <area>12,78</area>
+                            <area>15,64</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
                     <!-- <flat>
                         <flat_id>1112</flat_id>
                         <apartment>112</apartment>
@@ -1192,7 +1217,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1120</flat_id>
                         <apartment>120</apartment>
                         <floor>6</floor>
@@ -1214,7 +1239,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <!-- <flat>
                         <flat_id>1122</flat_id>
                         <apartment>122</apartment>
@@ -1261,7 +1286,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat> -->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1126</flat_id>
                         <apartment>126</apartment>
                         <floor>6</floor>
@@ -1284,7 +1309,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1128</flat_id>
                         <apartment>128</apartment>
@@ -1312,7 +1337,7 @@
                     <!-- ************************************************** -->
 
                     <!-- 7 floor-->
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1053</flat_id>
                         <apartment>53</apartment>
                         <floor>7</floor>
@@ -1334,7 +1359,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1055</flat_id>
                         <apartment>55</apartment>
