@@ -481,7 +481,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-67,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>7 034 940 </price>
+                        <price>7 169 580</price>
                         <area>67,32</area>
                         <kitchen_area>20,54</kitchen_area>
                         <living_area>32,09</living_area>
@@ -551,7 +551,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-67,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>7 183 044</price>
+                        <price>7 317 684</price>
                         <area>67,32</area>
                         <kitchen_area>20,54</kitchen_area>
                         <living_area>32,09</living_area>
@@ -953,7 +953,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1108</flat_id>
                         <apartment>108</apartment>
                         <floor>4</floor>
@@ -976,7 +976,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1110</flat_id>
                         <apartment>110</apartment>
@@ -1113,6 +1113,30 @@
                             <area>16,45</area>
                             <area>10,78</area>
                             <area>10,74</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1117</flat_id>
+                        <apartment>117</apartment>
+                        <floor>5</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-67,32.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>7 465 788</price>
+                        <area>67,32</area>
+                        <kitchen_area>20,54</kitchen_area>
+                        <living_area>32,09</living_area>
+                        <rooms_area>
+                            <area>20,54</area>
+                            <area>13,45</area>
+                            <area>18,64</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
