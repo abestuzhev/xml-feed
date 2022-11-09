@@ -48,94 +48,94 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1002</flat_id>
-                        <apartment>2</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,85.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2388000</price>
-                        <area>29,85</area>
-                        <kitchen_area>6,72</kitchen_area>
-                        <living_area>15,04</living_area>
-                        <rooms_area>
-                            <area>15,04</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1003</flat_id>
-                        <apartment>3</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,96.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2476800</price>
-                        <area>30,96</area>
-                        <kitchen_area>8,43</kitchen_area>
-                        <living_area>14,43</living_area>
-                        <rooms_area>
-                            <area>14,43</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1004</flat_id>
-                        <apartment>4</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-34,36.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2748800</price>
-                        <area>34,36</area>
-                        <kitchen_area>6,55</kitchen_area>
-                        <living_area>19,55</living_area>
-                        <rooms_area>
-                            <area>19,55</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1005</flat_id>
-                        <apartment>5</apartment>
-                        <floor>1</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-41,09.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>3287200</price>
-                        <area>41,09</area>
-                        <kitchen_area>5,28</kitchen_area>
-                        <living_area>21,25</living_area>
-                        <rooms_area>
-                            <area>21,25</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1002</flat_id>-->
+<!--                        <apartment>2</apartment>-->
+<!--                        <floor>1</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,85.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2388000</price>-->
+<!--                        <area>29,85</area>-->
+<!--                        <kitchen_area>6,72</kitchen_area>-->
+<!--                        <living_area>15,04</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,04</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1003</flat_id>-->
+<!--                        <apartment>3</apartment>-->
+<!--                        <floor>1</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,96.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2476800</price>-->
+<!--                        <area>30,96</area>-->
+<!--                        <kitchen_area>8,43</kitchen_area>-->
+<!--                        <living_area>14,43</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>14,43</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1004</flat_id>-->
+<!--                        <apartment>4</apartment>-->
+<!--                        <floor>1</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-34,36.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2748800</price>-->
+<!--                        <area>34,36</area>-->
+<!--                        <kitchen_area>6,55</kitchen_area>-->
+<!--                        <living_area>19,55</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>19,55</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1005</flat_id>-->
+<!--                        <apartment>5</apartment>-->
+<!--                        <floor>1</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-41,09.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>3287200</price>-->
+<!--                        <area>41,09</area>-->
+<!--                        <kitchen_area>5,28</kitchen_area>-->
+<!--                        <living_area>21,25</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>21,25</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1007</flat_id>
                         <apartment>7</apartment>
@@ -182,118 +182,118 @@
                         <ready_housing>0</ready_housing>
                     </flat>
 
-                    <!--2 этаж-->
-                    <flat>
-                        <flat_id>1009</flat_id>
-                        <apartment>9</apartment>
-                        <floor>2</floor>
-                        <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-56,37.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>4509600</price>
-                        <area>56,37</area>
-                        <kitchen_area>9,31</kitchen_area>
-                        <living_area>29,61</living_area>
-                        <rooms_area>
-                            <area>20,07</area>
-                            <area>9,54</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1010</flat_id>
-                        <apartment>10</apartment>
-                        <floor>2</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,83.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2386400</price>
-                        <area>29,83</area>
-                        <kitchen_area>6,72</kitchen_area>
-                        <living_area>15,02</living_area>
-                        <rooms_area>
-                            <area>15,02</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1011</flat_id>
-                        <apartment>11</apartment>
-                        <floor>2</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-26,98.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2205600</price>
-                        <area>26,98</area>
-                        <kitchen_area>4,67</kitchen_area>
-                        <living_area>14,25</living_area>
-                        <rooms_area>
-                            <area>14,25</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1012</flat_id>
-                        <apartment>12</apartment>
-                        <floor>2</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,83.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2466400</price>
-                        <area>30,83</area>
-                        <kitchen_area>6,98</kitchen_area>
-                        <living_area>15,50</living_area>
-                        <rooms_area>
-                            <area>15,50</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1013</flat_id>
-                        <apartment>13</apartment>
-                        <floor>2</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2887200</price>
-                        <area>36,09</area>
-                        <kitchen_area>6,84</kitchen_area>
-                        <living_area>20,10</living_area>
-                        <rooms_area>
-                            <area>20,10</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    &lt;!&ndash;2 этаж&ndash;&gt;-->
+<!--                    <flat>-->
+<!--                        <flat_id>1009</flat_id>-->
+<!--                        <apartment>9</apartment>-->
+<!--                        <floor>2</floor>-->
+<!--                        <room>2</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-56,37.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>4509600</price>-->
+<!--                        <area>56,37</area>-->
+<!--                        <kitchen_area>9,31</kitchen_area>-->
+<!--                        <living_area>29,61</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>20,07</area>-->
+<!--                            <area>9,54</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1010</flat_id>-->
+<!--                        <apartment>10</apartment>-->
+<!--                        <floor>2</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,83.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2386400</price>-->
+<!--                        <area>29,83</area>-->
+<!--                        <kitchen_area>6,72</kitchen_area>-->
+<!--                        <living_area>15,02</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,02</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1011</flat_id>-->
+<!--                        <apartment>11</apartment>-->
+<!--                        <floor>2</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-26,98.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2205600</price>-->
+<!--                        <area>26,98</area>-->
+<!--                        <kitchen_area>4,67</kitchen_area>-->
+<!--                        <living_area>14,25</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>14,25</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1012</flat_id>-->
+<!--                        <apartment>12</apartment>-->
+<!--                        <floor>2</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,83.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2466400</price>-->
+<!--                        <area>30,83</area>-->
+<!--                        <kitchen_area>6,98</kitchen_area>-->
+<!--                        <living_area>15,50</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,50</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1013</flat_id>-->
+<!--                        <apartment>13</apartment>-->
+<!--                        <floor>2</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2887200</price>-->
+<!--                        <area>36,09</area>-->
+<!--                        <kitchen_area>6,84</kitchen_area>-->
+<!--                        <living_area>20,10</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>20,10</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1014</flat_id>
                         <apartment>14</apartment>
@@ -316,28 +316,28 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1015</flat_id>
-                        <apartment>15</apartment>
-                        <floor>2</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2371200</price>
-                        <area>29,64</area>
-                        <kitchen_area>8,06</kitchen_area>
-                        <living_area>13,13</living_area>
-                        <rooms_area>
-                            <area>13,13</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1015</flat_id>-->
+<!--                        <apartment>15</apartment>-->
+<!--                        <floor>2</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2371200</price>-->
+<!--                        <area>29,64</area>-->
+<!--                        <kitchen_area>8,06</kitchen_area>-->
+<!--                        <living_area>13,13</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>13,13</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1016</flat_id>
                         <apartment>16</apartment>
@@ -383,9 +383,9 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <!--************************************************************************************-->
+<!--                    &lt;!&ndash;************************************************************************************&ndash;&gt;-->
 
-                    <!--3 этаж-->
+<!--                    &lt;!&ndash;3 этаж&ndash;&gt;-->
                     <flat>
                         <flat_id>1018</flat_id>
                         <apartment>18</apartment>
@@ -409,72 +409,72 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1019</flat_id>
-                        <apartment>19</apartment>
-                        <floor>3</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,83.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2386400</price>
-                        <area>29,83</area>
-                        <kitchen_area>6,72</kitchen_area>
-                        <living_area>15,02</living_area>
-                        <rooms_area>
-                            <area>15,02</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1021</flat_id>
-                        <apartment>21</apartment>
-                        <floor>3</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,83.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2466400</price>
-                        <area>30,83</area>
-                        <kitchen_area>6,98</kitchen_area>
-                        <living_area>15,50</living_area>
-                        <rooms_area>
-                            <area>15,50</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1022</flat_id>
-                        <apartment>22</apartment>
-                        <floor>3</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2887200</price>
-                        <area>36,09</area>
-                        <kitchen_area>6,84</kitchen_area>
-                        <living_area>20,10</living_area>
-                        <rooms_area>
-                            <area>20,10</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1019</flat_id>-->
+<!--                        <apartment>19</apartment>-->
+<!--                        <floor>3</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,83.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2386400</price>-->
+<!--                        <area>29,83</area>-->
+<!--                        <kitchen_area>6,72</kitchen_area>-->
+<!--                        <living_area>15,02</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,02</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1021</flat_id>-->
+<!--                        <apartment>21</apartment>-->
+<!--                        <floor>3</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,83.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2466400</price>-->
+<!--                        <area>30,83</area>-->
+<!--                        <kitchen_area>6,98</kitchen_area>-->
+<!--                        <living_area>15,50</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,50</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1022</flat_id>-->
+<!--                        <apartment>22</apartment>-->
+<!--                        <floor>3</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2887200</price>-->
+<!--                        <area>36,09</area>-->
+<!--                        <kitchen_area>6,84</kitchen_area>-->
+<!--                        <living_area>20,10</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>20,10</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1023</flat_id>
                         <apartment>23</apartment>
@@ -497,28 +497,28 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1024</flat_id>
-                        <apartment>24</apartment>
-                        <floor>3</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2371200</price>
-                        <area>29,64</area>
-                        <kitchen_area>8,06</kitchen_area>
-                        <living_area>13,13</living_area>
-                        <rooms_area>
-                            <area>13,13</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1024</flat_id>-->
+<!--                        <apartment>24</apartment>-->
+<!--                        <floor>3</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2371200</price>-->
+<!--                        <area>29,64</area>-->
+<!--                        <kitchen_area>8,06</kitchen_area>-->
+<!--                        <living_area>13,13</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>13,13</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1025</flat_id>
                         <apartment>25</apartment>
@@ -564,9 +564,9 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <!--************************************************************************************-->
+<!--                    &lt;!&ndash;************************************************************************************&ndash;&gt;-->
 
-                    <!--4 этаж-->
+<!--                    &lt;!&ndash;4 этаж&ndash;&gt;-->
                     <flat>
                         <flat_id>1027</flat_id>
                         <apartment>27</apartment>
@@ -590,50 +590,50 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1028</flat_id>
-                        <apartment>28</apartment>
-                        <floor>4</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,83.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2386400</price>
-                        <area>29,83</area>
-                        <kitchen_area>6,72</kitchen_area>
-                        <living_area>15,02</living_area>
-                        <rooms_area>
-                            <area>15,02</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1029</flat_id>
-                        <apartment>29</apartment>
-                        <floor>4</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-26,98.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2205600</price>
-                        <area>26,98</area>
-                        <kitchen_area>4,67</kitchen_area>
-                        <living_area>14,25</living_area>
-                        <rooms_area>
-                            <area>14,25</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1028</flat_id>-->
+<!--                        <apartment>28</apartment>-->
+<!--                        <floor>4</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,83.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2386400</price>-->
+<!--                        <area>29,83</area>-->
+<!--                        <kitchen_area>6,72</kitchen_area>-->
+<!--                        <living_area>15,02</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,02</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1029</flat_id>-->
+<!--                        <apartment>29</apartment>-->
+<!--                        <floor>4</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-26,98.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2205600</price>-->
+<!--                        <area>26,98</area>-->
+<!--                        <kitchen_area>4,67</kitchen_area>-->
+<!--                        <living_area>14,25</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>14,25</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1030</flat_id>
                         <apartment>30</apartment>
@@ -656,28 +656,28 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1031</flat_id>
-                        <apartment>31</apartment>
-                        <floor>4</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2887200</price>
-                        <area>36,09</area>
-                        <kitchen_area>6,84</kitchen_area>
-                        <living_area>20,10</living_area>
-                        <rooms_area>
-                            <area>20,10</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1031</flat_id>-->
+<!--                        <apartment>31</apartment>-->
+<!--                        <floor>4</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2887200</price>-->
+<!--                        <area>36,09</area>-->
+<!--                        <kitchen_area>6,84</kitchen_area>-->
+<!--                        <living_area>20,10</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>20,10</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1032</flat_id>
                         <apartment>32</apartment>
@@ -700,28 +700,28 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1033</flat_id>
-                        <apartment>33</apartment>
-                        <floor>4</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2371200</price>
-                        <area>29,64</area>
-                        <kitchen_area>8,06</kitchen_area>
-                        <living_area>13,13</living_area>
-                        <rooms_area>
-                            <area>13,13</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1033</flat_id>-->
+<!--                        <apartment>33</apartment>-->
+<!--                        <floor>4</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2371200</price>-->
+<!--                        <area>29,64</area>-->
+<!--                        <kitchen_area>8,06</kitchen_area>-->
+<!--                        <living_area>13,13</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>13,13</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1035</flat_id>
                         <apartment>35</apartment>
@@ -745,9 +745,9 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <!--************************************************************************************-->
+<!--                    &lt;!&ndash;************************************************************************************&ndash;&gt;-->
 
-                    <!--5 этаж-->
+<!--                    &lt;!&ndash;5 этаж&ndash;&gt;-->
                     <flat>
                         <flat_id>1036</flat_id>
                         <apartment>36</apartment>
@@ -793,72 +793,72 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1038</flat_id>
-                        <apartment>38</apartment>
-                        <floor>5</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-27,57.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2205600</price>
-                        <area>27,57</area>
-                        <kitchen_area>4,67</kitchen_area>
-                        <living_area>14,25</living_area>
-                        <rooms_area>
-                            <area>14,25</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1039</flat_id>
-                        <apartment>39</apartment>
-                        <floor>5</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,83.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2466400</price>
-                        <area>30,83</area>
-                        <kitchen_area>6,98</kitchen_area>
-                        <living_area>15,50</living_area>
-                        <rooms_area>
-                            <area>15,50</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1040</flat_id>
-                        <apartment>40</apartment>
-                        <floor>5</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2887200</price>
-                        <area>36,09</area>
-                        <kitchen_area>6,84</kitchen_area>
-                        <living_area>20,10</living_area>
-                        <rooms_area>
-                            <area>20,10</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1038</flat_id>-->
+<!--                        <apartment>38</apartment>-->
+<!--                        <floor>5</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-27,57.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2205600</price>-->
+<!--                        <area>27,57</area>-->
+<!--                        <kitchen_area>4,67</kitchen_area>-->
+<!--                        <living_area>14,25</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>14,25</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1039</flat_id>-->
+<!--                        <apartment>39</apartment>-->
+<!--                        <floor>5</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,83.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2466400</price>-->
+<!--                        <area>30,83</area>-->
+<!--                        <kitchen_area>6,98</kitchen_area>-->
+<!--                        <living_area>15,50</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,50</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1040</flat_id>-->
+<!--                        <apartment>40</apartment>-->
+<!--                        <floor>5</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2887200</price>-->
+<!--                        <area>36,09</area>-->
+<!--                        <kitchen_area>6,84</kitchen_area>-->
+<!--                        <living_area>20,10</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>20,10</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1041</flat_id>
                         <apartment>41</apartment>
@@ -881,28 +881,28 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1042</flat_id>
-                        <apartment>42</apartment>
-                        <floor>5</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2371200</price>
-                        <area>29,64</area>
-                        <kitchen_area>8,06</kitchen_area>
-                        <living_area>13,13</living_area>
-                        <rooms_area>
-                            <area>13,13</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1042</flat_id>-->
+<!--                        <apartment>42</apartment>-->
+<!--                        <floor>5</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2371200</price>-->
+<!--                        <area>29,64</area>-->
+<!--                        <kitchen_area>8,06</kitchen_area>-->
+<!--                        <living_area>13,13</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>13,13</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1043</flat_id>
                         <apartment>43</apartment>
@@ -949,9 +949,9 @@
                         <ready_housing>0</ready_housing>
                     </flat>
 
-                    <!--************************************************************************************-->
+<!--                    &lt;!&ndash;************************************************************************************&ndash;&gt;-->
 
-                    <!--6 этаж-->
+<!--                    &lt;!&ndash;6 этаж&ndash;&gt;-->
                     <flat>
                         <flat_id>1045</flat_id>
                         <apartment>45</apartment>
@@ -975,50 +975,50 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1046</flat_id>
-                        <apartment>46</apartment>
-                        <floor>6</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,42.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2433600</price>
-                        <area>30,42</area>
-                        <kitchen_area>6,72</kitchen_area>
-                        <living_area>15,02</living_area>
-                        <rooms_area>
-                            <area>15,02</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1047</flat_id>
-                        <apartment>47</apartment>
-                        <floor>6</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-27,57.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2205600</price>
-                        <area>27,57</area>
-                        <kitchen_area>4,67</kitchen_area>
-                        <living_area>14,25</living_area>
-                        <rooms_area>
-                            <area>14,25</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1046</flat_id>-->
+<!--                        <apartment>46</apartment>-->
+<!--                        <floor>6</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,42.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2433600</price>-->
+<!--                        <area>30,42</area>-->
+<!--                        <kitchen_area>6,72</kitchen_area>-->
+<!--                        <living_area>15,02</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,02</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1047</flat_id>-->
+<!--                        <apartment>47</apartment>-->
+<!--                        <floor>6</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-27,57.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2205600</price>-->
+<!--                        <area>27,57</area>-->
+<!--                        <kitchen_area>4,67</kitchen_area>-->
+<!--                        <living_area>14,25</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>14,25</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1048</flat_id>
                         <apartment>48</apartment>
@@ -1130,31 +1130,31 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <!--************************************************************************************-->
+<!--                    &lt;!&ndash;************************************************************************************&ndash;&gt;-->
 
-                    <!--7 этаж-->
-                    <flat>
-                        <flat_id>1055</flat_id>
-                        <apartment>55</apartment>
-                        <floor>7</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,42.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2433600</price>
-                        <area>30,42</area>
-                        <kitchen_area>6,72</kitchen_area>
-                        <living_area>15,02</living_area>
-                        <rooms_area>
-                            <area>15,02</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    &lt;!&ndash;7 этаж&ndash;&gt;-->
+<!--                    <flat>-->
+<!--                        <flat_id>1055</flat_id>-->
+<!--                        <apartment>55</apartment>-->
+<!--                        <floor>7</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,42.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2433600</price>-->
+<!--                        <area>30,42</area>-->
+<!--                        <kitchen_area>6,72</kitchen_area>-->
+<!--                        <living_area>15,02</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,02</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1057</flat_id>
                         <apartment>57</apartment>
@@ -1177,50 +1177,50 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1058</flat_id>
-                        <apartment>58</apartment>
-                        <floor>7</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2887200</price>
-                        <area>36,09</area>
-                        <kitchen_area>6,84</kitchen_area>
-                        <living_area>20,10</living_area>
-                        <rooms_area>
-                            <area>20,10</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1059</flat_id>
-                        <apartment>59</apartment>
-                        <floor>7</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-44,92.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>3593600</price>
-                        <area>44,92</area>
-                        <kitchen_area>5,68</kitchen_area>
-                        <living_area>23,01</living_area>
-                        <rooms_area>
-                            <area>23,01</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1058</flat_id>-->
+<!--                        <apartment>58</apartment>-->
+<!--                        <floor>7</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2887200</price>-->
+<!--                        <area>36,09</area>-->
+<!--                        <kitchen_area>6,84</kitchen_area>-->
+<!--                        <living_area>20,10</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>20,10</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1059</flat_id>-->
+<!--                        <apartment>59</apartment>-->
+<!--                        <floor>7</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-44,92.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>3593600</price>-->
+<!--                        <area>44,92</area>-->
+<!--                        <kitchen_area>5,68</kitchen_area>-->
+<!--                        <living_area>23,01</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>23,01</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1061</flat_id>
                         <apartment>61</apartment>
@@ -1267,9 +1267,9 @@
                         <ready_housing>0</ready_housing>
                     </flat>
 
-                    <!--************************************************************************************-->
+<!--                    &lt;!&ndash;************************************************************************************&ndash;&gt;-->
 
-                    <!--8 -->
+<!--                    &lt;!&ndash;8 &ndash;&gt;-->
                     <flat>
                         <flat_id>1063</flat_id>
                         <apartment>63</apartment>
@@ -1293,116 +1293,116 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1064</flat_id>
-                        <apartment>64</apartment>
-                        <floor>8</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,42.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2433600</price>
-                        <area>30,42</area>
-                        <kitchen_area>6,72</kitchen_area>
-                        <living_area>15,02</living_area>
-                        <rooms_area>
-                            <area>15,02</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1066</flat_id>
-                        <apartment>66</apartment>
-                        <floor>8</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,83.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2466400</price>
-                        <area>30,83</area>
-                        <kitchen_area>6,98</kitchen_area>
-                        <living_area>15,50</living_area>
-                        <rooms_area>
-                            <area>15,50</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1067</flat_id>
-                        <apartment>67</apartment>
-                        <floor>8</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2887200</price>
-                        <area>36,09</area>
-                        <kitchen_area>6,84</kitchen_area>
-                        <living_area>20,10</living_area>
-                        <rooms_area>
-                            <area>20,10</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1068</flat_id>
-                        <apartment>68</apartment>
-                        <floor>8</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-44,92.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>3593600</price>
-                        <area>44,92</area>
-                        <kitchen_area>5,68</kitchen_area>
-                        <living_area>23,01</living_area>
-                        <rooms_area>
-                            <area>23,01</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1069</flat_id>
-                        <apartment>69</apartment>
-                        <floor>8</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2371200</price>
-                        <area>29,64</area>
-                        <kitchen_area>8,06</kitchen_area>
-                        <living_area>13,13</living_area>
-                        <rooms_area>
-                            <area>13,13</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1064</flat_id>-->
+<!--                        <apartment>64</apartment>-->
+<!--                        <floor>8</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,42.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2433600</price>-->
+<!--                        <area>30,42</area>-->
+<!--                        <kitchen_area>6,72</kitchen_area>-->
+<!--                        <living_area>15,02</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,02</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1066</flat_id>-->
+<!--                        <apartment>66</apartment>-->
+<!--                        <floor>8</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,83.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2466400</price>-->
+<!--                        <area>30,83</area>-->
+<!--                        <kitchen_area>6,98</kitchen_area>-->
+<!--                        <living_area>15,50</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,50</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1067</flat_id>-->
+<!--                        <apartment>67</apartment>-->
+<!--                        <floor>8</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-36,09.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2887200</price>-->
+<!--                        <area>36,09</area>-->
+<!--                        <kitchen_area>6,84</kitchen_area>-->
+<!--                        <living_area>20,10</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>20,10</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1068</flat_id>-->
+<!--                        <apartment>68</apartment>-->
+<!--                        <floor>8</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-44,92.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>3593600</price>-->
+<!--                        <area>44,92</area>-->
+<!--                        <kitchen_area>5,68</kitchen_area>-->
+<!--                        <living_area>23,01</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>23,01</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1069</flat_id>-->
+<!--                        <apartment>69</apartment>-->
+<!--                        <floor>8</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2371200</price>-->
+<!--                        <area>29,64</area>-->
+<!--                        <kitchen_area>8,06</kitchen_area>-->
+<!--                        <living_area>13,13</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>13,13</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1070</flat_id>
                         <apartment>70</apartment>
@@ -1425,100 +1425,100 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1071</flat_id>
-                        <apartment>71</apartment>
-                        <floor>8</floor>
-                        <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-69,30.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>5544000</price>
-                        <area>69,30</area>
-                        <kitchen_area>10,21</kitchen_area>
-                        <living_area>40,81</living_area>
-                        <rooms_area>
-                            <area>26,94</area>
-                            <area>13,87</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1071</flat_id>-->
+<!--                        <apartment>71</apartment>-->
+<!--                        <floor>8</floor>-->
+<!--                        <room>2</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-69,30.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>5544000</price>-->
+<!--                        <area>69,30</area>-->
+<!--                        <kitchen_area>10,21</kitchen_area>-->
+<!--                        <living_area>40,81</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>26,94</area>-->
+<!--                            <area>13,87</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
 
                     <!--************************************************************************************-->
 
                     <!--9 -->
-                    <flat>
-                        <flat_id>1072</flat_id>
-                        <apartment>72</apartment>
-                        <floor>9</floor>
-                        <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-56,82.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>4545600</price>
-                        <area>56,82</area>
-                        <kitchen_area>9,31</kitchen_area>
-                        <living_area>29,61</living_area>
-                        <rooms_area>
-                            <area>20,07</area>
-                            <area>9,54</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1073</flat_id>
-                        <apartment>73</apartment>
-                        <floor>9</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,42.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2433600</price>
-                        <area>30,42</area>
-                        <kitchen_area>6,72</kitchen_area>
-                        <living_area>15,02</living_area>
-                        <rooms_area>
-                            <area>15,02</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1074</flat_id>
-                        <apartment>74</apartment>
-                        <floor>9</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-27,57.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2205600</price>
-                        <area>27,57</area>
-                        <kitchen_area>4,67</kitchen_area>
-                        <living_area>14,25</living_area>
-                        <rooms_area>
-                            <area>14,25</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1072</flat_id>-->
+<!--                        <apartment>72</apartment>-->
+<!--                        <floor>9</floor>-->
+<!--                        <room>2</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-56,82.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>4545600</price>-->
+<!--                        <area>56,82</area>-->
+<!--                        <kitchen_area>9,31</kitchen_area>-->
+<!--                        <living_area>29,61</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>20,07</area>-->
+<!--                            <area>9,54</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1073</flat_id>-->
+<!--                        <apartment>73</apartment>-->
+<!--                        <floor>9</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-30,42.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2433600</price>-->
+<!--                        <area>30,42</area>-->
+<!--                        <kitchen_area>6,72</kitchen_area>-->
+<!--                        <living_area>15,02</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>15,02</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1074</flat_id>-->
+<!--                        <apartment>74</apartment>-->
+<!--                        <floor>9</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-27,57.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2205600</price>-->
+<!--                        <area>27,57</area>-->
+<!--                        <kitchen_area>4,67</kitchen_area>-->
+<!--                        <living_area>14,25</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>14,25</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1076</flat_id>
                         <apartment>76</apartment>
@@ -1541,50 +1541,50 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
-                        <flat_id>1077</flat_id>
-                        <apartment>77</apartment>
-                        <floor>9</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-44,92.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>3593600</price>
-                        <area>44,92</area>
-                        <kitchen_area>5,68</kitchen_area>
-                        <living_area>23,01</living_area>
-                        <rooms_area>
-                            <area>23,01</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1078</flat_id>
-                        <apartment>78</apartment>
-                        <floor>9</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>2371200</price>
-                        <area>29,64</area>
-                        <kitchen_area>8,06</kitchen_area>
-                        <living_area>13,13</living_area>
-                        <rooms_area>
-                            <area>13,13</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
+<!--                    <flat>-->
+<!--                        <flat_id>1077</flat_id>-->
+<!--                        <apartment>77</apartment>-->
+<!--                        <floor>9</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-44,92.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>3593600</price>-->
+<!--                        <area>44,92</area>-->
+<!--                        <kitchen_area>5,68</kitchen_area>-->
+<!--                        <living_area>23,01</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>23,01</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
+<!--                    <flat>-->
+<!--                        <flat_id>1078</flat_id>-->
+<!--                        <apartment>78</apartment>-->
+<!--                        <floor>9</floor>-->
+<!--                        <room>1</room>-->
+<!--                        <plan>https://abestuzhev.github.io/xml-feed/pervomajskij/img/floor/apartment-29,64.jpg</plan>-->
+<!--                        <balcony>балкон</balcony>-->
+<!--                        <renovation>нет</renovation>-->
+<!--                        <price>2371200</price>-->
+<!--                        <area>29,64</area>-->
+<!--                        <kitchen_area>8,06</kitchen_area>-->
+<!--                        <living_area>13,13</living_area>-->
+<!--                        <rooms_area>-->
+<!--                            <area>13,13</area>-->
+<!--                        </rooms_area>-->
+<!--                        <window_view>на улицу</window_view>-->
+<!--                        <bathroom>раздельный</bathroom>-->
+<!--                        <layout_type>free</layout_type>-->
+<!--                        <housing_type>0</housing_type>-->
+<!--                        <decoration>0</decoration>-->
+<!--                        <ready_housing>0</ready_housing>-->
+<!--                    </flat>-->
                     <flat>
                         <flat_id>1079</flat_id>
                         <apartment>79</apartment>
