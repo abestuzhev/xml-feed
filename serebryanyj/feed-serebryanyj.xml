@@ -202,7 +202,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-52,68.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>6000000</price>
+                        <price>5560000</price>
                         <area>52,68</area>
                         <kitchen_area>9,32</kitchen_area>
                         <living_area>31,40</living_area>
@@ -1478,7 +1478,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-72,03.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>7000000</price>
+                        <price>7500000</price>
                         <area>72,03</area>
                         <kitchen_area>11,40</kitchen_area>
                         <living_area>42,96</living_area>
@@ -1804,11 +1804,11 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat> -->
-                    <!-- <flat>
+                    <flat>
                         <flat_id>1042</flat_id>
                         <apartment>42</apartment>
                         <floor>9</floor>
-                        <room>3</room>
+                        <room>2</room>
                         <plan>https://abestuzhev.github.io/xml-feed/serebryanyj/img/floor/apartment-74,06.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
@@ -1827,7 +1827,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat> -->
+                    </flat>
                     <flat>
                         <flat_id>1045</flat_id>
                         <apartment>45</apartment>
