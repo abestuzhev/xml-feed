@@ -32,7 +32,7 @@
                         <apartment>2</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,18.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,18.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -54,7 +54,7 @@
                         <apartment>303</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-28,81.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-28,81.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -76,7 +76,7 @@
                         <apartment>304</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-34,33.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-34,33.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -98,7 +98,7 @@
                         <apartment>305</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-34,51.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-34,51.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>340000</price>
@@ -120,7 +120,7 @@
                         <apartment>306</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,86.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,86.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -142,7 +142,7 @@
                         <apartment>307</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,62.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,62.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -164,7 +164,7 @@
                         <apartment>308</apartment>
                         <floor>1</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-28,20.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-28,20.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2800000</price>
@@ -186,7 +186,7 @@
                         <apartment>309</apartment>
                         <floor>1</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,82.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,82.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4650000</price>
@@ -210,7 +210,7 @@
                         <apartment>310</apartment>
                         <floor>2</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,82.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,82.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4650000</price>
@@ -233,7 +233,7 @@
                         <apartment>311</apartment>
                         <floor>2</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -256,7 +256,7 @@
                         <apartment>312</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -278,7 +278,7 @@
                         <apartment>313</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -300,7 +300,7 @@
                         <apartment>314</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -322,7 +322,7 @@
                         <apartment>316</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -344,7 +344,7 @@
                         <apartment>317</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -366,7 +366,7 @@
                         <apartment>318</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,60.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,60.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2800000</price>
@@ -388,7 +388,7 @@
                         <apartment>319</apartment>
                         <floor>2</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4650000</price>
@@ -413,7 +413,7 @@
                         <apartment>320</apartment>
                         <floor>3</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,21.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,21.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4650000</price>
@@ -436,7 +436,7 @@
                         <apartment>330</apartment>
                         <floor>4</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,21.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,21.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -459,7 +459,7 @@
                         <apartment>350</apartment>
                         <floor>6</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,21.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,21.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -482,7 +482,7 @@
                         <apartment>360</apartment>
                         <floor>7</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,21.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,21.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -505,7 +505,7 @@
                         <apartment>380</apartment>
                         <floor>8</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-51,84.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-51,84.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -528,7 +528,7 @@
                         <apartment>420</apartment>
                         <floor>13</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-51,84.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-51,84.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -551,7 +551,7 @@
                         <apartment>430</apartment>
                         <floor>14</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-51,84.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-51,84.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -576,7 +576,7 @@
                         <apartment>321</apartment>
                         <floor>3</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -599,7 +599,7 @@
                         <apartment>331</apartment>
                         <floor>4</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -622,7 +622,7 @@
                         <apartment>341</apartment>
                         <floor>5</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -645,7 +645,7 @@
                         <apartment>351</apartment>
                         <floor>6</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -668,7 +668,7 @@
                         <apartment>361</apartment>
                         <floor>7</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-37,28.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -691,7 +691,7 @@
                         <apartment>371</apartment>
                         <floor>8</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-36,79.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-36,79.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -714,7 +714,7 @@
                         <apartment>381</apartment>
                         <floor>9</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-36,79.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-36,79.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -737,7 +737,7 @@
                         <apartment>421</apartment>
                         <floor>13</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-36,79.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-36,79.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -760,7 +760,7 @@
                         <apartment>431</apartment>
                         <floor>14</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-36,79.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-36,79.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3800000</price>
@@ -785,7 +785,7 @@
                         <apartment>322</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -807,7 +807,7 @@
                         <apartment>332</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -829,7 +829,7 @@
                         <apartment>352</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -851,7 +851,7 @@
                         <apartment>362</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -873,7 +873,7 @@
                         <apartment>372</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,77.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -895,7 +895,7 @@
                         <apartment>382</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,57.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,57.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -917,7 +917,7 @@
                         <apartment>422</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,57.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,57.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -939,7 +939,7 @@
                         <apartment>432</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,57.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,57.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -962,7 +962,7 @@
                         <apartment>323</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -984,7 +984,7 @@
                         <apartment>333</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -1006,7 +1006,7 @@
                         <apartment>343</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -1028,7 +1028,7 @@
                         <apartment>353</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -1050,7 +1050,7 @@
                         <apartment>363</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,81.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -1072,7 +1072,7 @@
                         <apartment>373</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,18.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,18.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -1094,7 +1094,7 @@
                         <apartment>383</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,18.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,18.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -1116,7 +1116,7 @@
                         <apartment>423</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,18.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,18.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -1138,7 +1138,7 @@
                         <apartment>433</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,18.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,18.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3000000</price>
@@ -1161,7 +1161,7 @@
                         <apartment>324</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1183,7 +1183,7 @@
                         <apartment>334</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1205,7 +1205,7 @@
                         <apartment>344</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1227,7 +1227,7 @@
                         <apartment>354</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1249,7 +1249,7 @@
                         <apartment>364</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,73.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1271,7 +1271,7 @@
                         <apartment>374</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,35.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,35.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1293,7 +1293,7 @@
                         <apartment>384</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,35.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,35.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1315,7 +1315,7 @@
                         <apartment>424</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,35.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,35.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1337,7 +1337,7 @@
                         <apartment>434</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,35.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,35.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3500000</price>
@@ -1360,7 +1360,7 @@
                         <apartment>325</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,91.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,91.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1382,7 +1382,7 @@
                         <apartment>335</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,91.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,91.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1404,7 +1404,7 @@
                         <apartment>345</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,91.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,91.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1426,7 +1426,7 @@
                         <apartment>425</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,53.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,53.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1448,7 +1448,7 @@
                         <apartment>435</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,53.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,53.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1471,7 +1471,7 @@
                         <apartment>326</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1493,7 +1493,7 @@
                         <apartment>336</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1515,7 +1515,7 @@
                         <apartment>346</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1537,7 +1537,7 @@
                         <apartment>356</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-33,26.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1559,7 +1559,7 @@
                         <apartment>436</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-32,88.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-32,88.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3400000</price>
@@ -1583,7 +1583,7 @@
                         <apartment>327</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -1605,7 +1605,7 @@
                         <apartment>337</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -1627,7 +1627,7 @@
                         <apartment>347</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -1649,7 +1649,7 @@
                         <apartment>357</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-23,01.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -1671,7 +1671,7 @@
                         <apartment>377</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -1693,7 +1693,7 @@
                         <apartment>387</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -1715,7 +1715,7 @@
                         <apartment>427</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -1737,7 +1737,7 @@
                         <apartment>437</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2600000</price>
@@ -1760,7 +1760,7 @@
                         <apartment>328</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,60.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,60.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2800000</price>
@@ -1782,7 +1782,7 @@
                         <apartment>338</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,60.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,60.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2800000</price>
@@ -1804,7 +1804,7 @@
                         <apartment>348</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,60.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-27,60.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>2800000</price>
@@ -1827,7 +1827,7 @@
                         <apartment>329</apartment>
                         <floor>3</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4650000</price>
@@ -1850,7 +1850,7 @@
                         <apartment>339</apartment>
                         <floor>4</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -1873,7 +1873,7 @@
                         <apartment>349</apartment>
                         <floor>5</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -1896,7 +1896,7 @@
                         <apartment>359</apartment>
                         <floor>6</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
@@ -1919,7 +1919,7 @@
                         <apartment>369</apartment>
                         <floor>7</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.jpg</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-52,22.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5000000</price>
