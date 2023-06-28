@@ -33,7 +33,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-52,88.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>5 575 960</price>
+                        <price>5739888</price>
                         <area>52,88</area>
                         <kitchen_area>14,82</kitchen_area>
                         <living_area>24,94</living_area>
@@ -435,7 +435,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-53,36.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>7 187 520</price>
+                        <price>5572760</price>
                         <area>53,36</area>
                         <kitchen_area>16,90</kitchen_area>
                         <living_area>21,34</living_area>
@@ -949,30 +949,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat> 
-                    <flat>
-                        <flat_id>1033</flat_id>
-                        <apartment>33</apartment>
-                        <floor>4</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/legenda/img/floor/apartment-68,63.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>7015945</price>
-                        <area>68,63</area>
-                        <kitchen_area>17,21</kitchen_area>
-                        <living_area>32,52</living_area>
-                        <rooms_area>
-                            <area>14,29</area>
-                            <area>18,23</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>                   
+                    </flat>                    
 
                     <flat>
                         <flat_id>1102</flat_id>
