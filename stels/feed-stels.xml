@@ -1,7 +1,7 @@
 <complexes>
     <complex>
         <id>118789</id>
-        <name>Жилой комплекс «СТЕЛС», 3 этап</name>
+        <name>Жилой комплекс «СТЕЛС»</name>
         <latitude>64.53017501241855</latitude>
         <longitude>40.63063866696086</longitude>
         <address>г.Архангельск, Майская горка, пр. Московский</address>
@@ -15,7 +15,7 @@
             <building>
                 <id>174521</id>
                 <fz_214>1</fz_214>
-                <name>Жилой комплекс «СТЕЛС», 3 этап</name>
+                <name>Жилой комплекс «СТЕЛС», 1 этап (Корпус 2, подъезды 3, 4, 5)</name>
                 <floors>14</floors>
                 <floors_ready>1</floors_ready>
                 <building_state>built</building_state>
