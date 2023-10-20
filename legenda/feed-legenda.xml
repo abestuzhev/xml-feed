@@ -23,7 +23,7 @@
                 <building_type>кирпичный</building_type>
                 <image></image>
                 <flats>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1001</flat_id>
                         <apartment>1</apartment>
                         <floor>1</floor>
@@ -1054,7 +1054,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                 </flats>
 
             </building>
