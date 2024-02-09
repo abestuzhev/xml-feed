@@ -669,7 +669,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1337</flat_id>
                         <apartment>337</apartment>
                         <floor>4</floor>
@@ -690,8 +690,8 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
+                    </flat> -->
+                    <!-- <flat>
                         <flat_id>1347</flat_id>
                         <apartment>347</apartment>
                         <floor>5</floor>
@@ -712,8 +712,8 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
+                    </flat> -->
+                    <!-- <flat>
                         <flat_id>1357</flat_id>
                         <apartment>357</apartment>
                         <floor>6</floor>
@@ -734,7 +734,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1377</flat_id>
                         <apartment>377</apartment>
@@ -867,7 +867,7 @@
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
                     </flat>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1378</flat_id>
                         <apartment>378</apartment>
                         <floor>8</floor>
@@ -889,7 +889,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1387</flat_id>
                         <apartment>387</apartment>
@@ -1028,7 +1028,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>
                 
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1437</flat_id>
                         <apartment>437</apartment>
                         <floor>14</floor>
@@ -1049,7 +1049,7 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                 </flats>
             </building>
         </buildings>
@@ -1059,7 +1059,7 @@
             <text>
                 Жилой комплекс СТЕЛС расположен на пр.Московском в округе Майская горка  г.Архангельска.
                 В непосредственной близости расположены детские сады №186 "Веснушка", №157 "Сиверко", Средняя школа №7 с бассейном и стадионом, Архангельская СШ Соловецких юнг, а также ТЦ "Вертикаль" и медицинский центр.
-                Корпус 2 состоит из 5 подъездов.
+                Корпус 2 состоит из 5 подъездов. *Указаны минимальные цены при приобретении за собственные средства.
             </text>
         </description_main>
 
