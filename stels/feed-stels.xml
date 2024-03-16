@@ -802,7 +802,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>
                     <flat>
-                        <flat_id>1387</flat_id>
+                        <flat_id>1387a</flat_id>
                         <apartment>387</apartment>
                         <floor>9</floor>
                         <room>1</room>
@@ -1938,7 +1938,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>
                     <flat>
-                        <flat_id>1483</flat_id>
+                        <flat_id>1483a</flat_id>
                         <apartment>483</apartment>
                         <floor>8</floor>
                         <room>1</room>
@@ -2404,8 +2404,8 @@
 
                     <!-- 6-->
                     <flat>
-                        <flat_id>1449</flat_id>
-                        <apartment>449</apartment>
+                        <flat_id>1449a</flat_id>
+                        <apartment>449a</apartment>
                         <floor>2</floor>
                         <room>0</room>
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor-4/apartment-30,48.jpg</plan>
