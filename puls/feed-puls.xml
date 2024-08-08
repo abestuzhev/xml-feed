@@ -6,9 +6,9 @@
         <longitude>40.60015</longitude>
         <address>г. Архангельск, Улица Первомайская, дом 5.</address>
         <images>
-            <image>https://drive.google.com/file/d/1be1jih9x7Esq_dhUtoA0qwuqglU0Ydkz/view?usp=sharing</image>
-            <image>https://drive.google.com/file/d/1U_pLKDwuLtnhskwJ3u3Un9WcPNFKYTLj/view?usp=sharing</image>
-            <image>https://drive.google.com/file/d/1ACxP5MHv7bVCms87YHkoO-lkmUFWoKLW/view?usp=sharing</image>
+            <image>https://abestuzhev.github.io/xml-feed/puls/img/img-1.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/puls/img/img-2.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/puls/img/img-3.jpg</image>
         </images>
 
         <buildings>
@@ -30,7 +30,7 @@
                         <apartment>1</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3823400</price>
@@ -47,7 +47,7 @@
                         <apartment>2</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3823400</price>
@@ -64,7 +64,7 @@
                         <apartment>3</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3823400</price>
@@ -81,7 +81,7 @@
                         <apartment>4</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3823400</price>
@@ -98,7 +98,7 @@
                         <apartment>5</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3932600</price>
@@ -115,7 +115,7 @@
                         <apartment>6</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4026400</price>
@@ -132,7 +132,7 @@
                         <apartment>7</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5067400</price>
@@ -149,7 +149,7 @@
                         <apartment>8</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5106400</price>
@@ -166,7 +166,7 @@
                         <apartment>9</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5105100</price>
@@ -183,7 +183,7 @@
                         <apartment>10</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5106400</price>
@@ -200,7 +200,7 @@
                         <apartment>11</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5105100</price>
@@ -217,7 +217,7 @@
                         <apartment>12</apartment>
                         <floor>2</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6468000</price>
@@ -234,7 +234,7 @@
                         <apartment>13</apartment>
                         <floor>2</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7211100</price>
@@ -251,7 +251,7 @@
                         <apartment>14</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3824800</price>
@@ -268,7 +268,7 @@
                         <apartment>15</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3833200</price>
@@ -285,7 +285,7 @@
                         <apartment>16</apartment>
                         <floor>2</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3822000</price>
@@ -303,7 +303,7 @@
                         <apartment>17</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3823400</price>
@@ -320,7 +320,7 @@
                         <apartment>18</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3823400</price>
@@ -337,7 +337,7 @@
                         <apartment>19</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3823400</price>
@@ -354,7 +354,7 @@
                         <apartment>20</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3823400</price>
@@ -371,7 +371,7 @@
                         <apartment>21</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3932600</price>
@@ -388,7 +388,7 @@
                         <apartment>22</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4026400</price>
@@ -405,7 +405,7 @@
                         <apartment>23</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5067400</price>
@@ -422,7 +422,7 @@
                         <apartment>24</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5106400</price>
@@ -439,7 +439,7 @@
                         <apartment>25</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5105100</price>
@@ -456,7 +456,7 @@
                         <apartment>26</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5106400</price>
@@ -473,7 +473,7 @@
                         <apartment>27</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5105100</price>
@@ -490,7 +490,7 @@
                         <apartment>28</apartment>
                         <floor>3</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6468000</price>
@@ -507,7 +507,7 @@
                         <apartment>29</apartment>
                         <floor>3</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7211100</price>
@@ -524,7 +524,7 @@
                         <apartment>30</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3824800</price>
@@ -541,7 +541,7 @@
                         <apartment>31</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3833200</price>
@@ -558,7 +558,7 @@
                         <apartment>32</apartment>
                         <floor>3</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>3822000</price>
@@ -576,7 +576,7 @@
                         <apartment>33</apartment>
                         <floor>4</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -593,7 +593,7 @@
                         <apartment>34</apartment>
                         <floor>4</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -610,7 +610,7 @@
                         <apartment>35</apartment>
                         <floor>4</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -627,7 +627,7 @@
                         <apartment>36</apartment>
                         <floor>4</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -644,7 +644,7 @@
                         <apartment>37</apartment>
                         <floor>4</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -661,7 +661,7 @@
                         <apartment>39</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -678,7 +678,7 @@
                         <apartment>40</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -695,7 +695,7 @@
                         <apartment>41</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -712,7 +712,7 @@
                         <apartment>42</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -729,7 +729,7 @@
                         <apartment>44</apartment>
                         <floor>4</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -746,7 +746,7 @@
                         <apartment>47</apartment>
                         <floor>4</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -763,7 +763,7 @@
                         <apartment>48</apartment>
                         <floor>4</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -781,7 +781,7 @@
                         <apartment>49</apartment>
                         <floor>5</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -798,7 +798,7 @@
                         <apartment>52</apartment>
                         <floor>5</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -815,7 +815,7 @@
                         <apartment>53</apartment>
                         <floor>5</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -832,7 +832,7 @@
                         <apartment>54</apartment>
                         <floor>5</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -849,7 +849,7 @@
                         <apartment>55</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -866,7 +866,7 @@
                         <apartment>56</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -883,7 +883,7 @@
                         <apartment>57</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -900,7 +900,7 @@
                         <apartment>58</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -917,7 +917,7 @@
                         <apartment>59</apartment>
                         <floor>5</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -934,7 +934,7 @@
                         <apartment>61</apartment>
                         <floor>5</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -951,7 +951,7 @@
                         <apartment>62</apartment>
                         <floor>5</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -968,7 +968,7 @@
                         <apartment>63</apartment>
                         <floor>5</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -985,7 +985,7 @@
                         <apartment>64</apartment>
                         <floor>5</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -1003,7 +1003,7 @@
                         <apartment>65</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1020,7 +1020,7 @@
                         <apartment>66</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1037,7 +1037,7 @@
                         <apartment>67</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1054,7 +1054,7 @@
                         <apartment>68</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1071,7 +1071,7 @@
                         <apartment>69</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -1088,7 +1088,7 @@
                         <apartment>70</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -1105,7 +1105,7 @@
                         <apartment>71</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -1122,7 +1122,7 @@
                         <apartment>72</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -1139,7 +1139,7 @@
                         <apartment>73</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -1156,7 +1156,7 @@
                         <apartment>74</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -1173,7 +1173,7 @@
                         <apartment>75</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -1190,7 +1190,7 @@
                         <apartment>76</apartment>
                         <floor>6</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -1207,7 +1207,7 @@
                         <apartment>77</apartment>
                         <floor>6</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -1224,7 +1224,7 @@
                         <apartment>78</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -1241,7 +1241,7 @@
                         <apartment>79</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -1258,7 +1258,7 @@
                         <apartment>80</apartment>
                         <floor>6</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -1276,7 +1276,7 @@
                         <apartment>81</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1293,7 +1293,7 @@
                         <apartment>82</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1310,7 +1310,7 @@
                         <apartment>83</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1327,7 +1327,7 @@
                         <apartment>84</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1344,7 +1344,7 @@
                         <apartment>85</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -1361,7 +1361,7 @@
                         <apartment>86</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -1378,7 +1378,7 @@
                         <apartment>87</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -1395,7 +1395,7 @@
                         <apartment>88</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -1412,7 +1412,7 @@
                         <apartment>89</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -1429,7 +1429,7 @@
                         <apartment>90</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -1446,7 +1446,7 @@
                         <apartment>91</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -1463,7 +1463,7 @@
                         <apartment>92</apartment>
                         <floor>7</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -1480,7 +1480,7 @@
                         <apartment>93</apartment>
                         <floor>7</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -1497,7 +1497,7 @@
                         <apartment>94</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -1514,7 +1514,7 @@
                         <apartment>95</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -1531,7 +1531,7 @@
                         <apartment>96</apartment>
                         <floor>7</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -1549,7 +1549,7 @@
                         <apartment>97</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1566,7 +1566,7 @@
                         <apartment>98</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1583,7 +1583,7 @@
                         <apartment>99</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1600,7 +1600,7 @@
                         <apartment>100</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1617,7 +1617,7 @@
                         <apartment>101</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -1634,7 +1634,7 @@
                         <apartment>102</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -1651,7 +1651,7 @@
                         <apartment>103</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -1668,7 +1668,7 @@
                         <apartment>104</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -1685,7 +1685,7 @@
                         <apartment>105</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -1702,7 +1702,7 @@
                         <apartment>106</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -1719,7 +1719,7 @@
                         <apartment>107</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -1736,7 +1736,7 @@
                         <apartment>108</apartment>
                         <floor>8</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -1753,7 +1753,7 @@
                         <apartment>109</apartment>
                         <floor>8</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -1770,7 +1770,7 @@
                         <apartment>110</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -1787,7 +1787,7 @@
                         <apartment>111</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -1804,7 +1804,7 @@
                         <apartment>112</apartment>
                         <floor>8</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -1822,7 +1822,7 @@
                         <apartment>113</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1839,7 +1839,7 @@
                         <apartment>114</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1856,7 +1856,7 @@
                         <apartment>115</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1873,7 +1873,7 @@
                         <apartment>116</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -1890,7 +1890,7 @@
                         <apartment>117</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -1907,7 +1907,7 @@
                         <apartment>118</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -1924,7 +1924,7 @@
                         <apartment>119</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -1941,7 +1941,7 @@
                         <apartment>120</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -1958,7 +1958,7 @@
                         <apartment>121</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -1975,7 +1975,7 @@
                         <apartment>122</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -1992,7 +1992,7 @@
                         <apartment>123</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -2009,7 +2009,7 @@
                         <apartment>124</apartment>
                         <floor>9</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -2026,7 +2026,7 @@
                         <apartment>125</apartment>
                         <floor>9</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -2043,7 +2043,7 @@
                         <apartment>126</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -2060,7 +2060,7 @@
                         <apartment>127</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -2077,7 +2077,7 @@
                         <apartment>128</apartment>
                         <floor>9</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -2095,7 +2095,7 @@
                         <apartment>129</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2112,7 +2112,7 @@
                         <apartment>130</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2129,7 +2129,7 @@
                         <apartment>131</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2146,7 +2146,7 @@
                         <apartment>132</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2163,7 +2163,7 @@
                         <apartment>133</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -2180,7 +2180,7 @@
                         <apartment>134</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -2197,7 +2197,7 @@
                         <apartment>135</apartment>
                         <floor>10</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -2214,7 +2214,7 @@
                         <apartment>136</apartment>
                         <floor>10</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -2231,7 +2231,7 @@
                         <apartment>137</apartment>
                         <floor>10</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -2248,7 +2248,7 @@
                         <apartment>138</apartment>
                         <floor>10</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -2265,7 +2265,7 @@
                         <apartment>139</apartment>
                         <floor>10</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -2282,7 +2282,7 @@
                         <apartment>140</apartment>
                         <floor>10</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -2299,7 +2299,7 @@
                         <apartment>141</apartment>
                         <floor>10</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -2316,7 +2316,7 @@
                         <apartment>142</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -2333,7 +2333,7 @@
                         <apartment>143</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -2350,7 +2350,7 @@
                         <apartment>144</apartment>
                         <floor>10</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -2368,7 +2368,7 @@
                         <apartment>145</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2385,7 +2385,7 @@
                         <apartment>146</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2402,7 +2402,7 @@
                         <apartment>147</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2419,7 +2419,7 @@
                         <apartment>148</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2436,7 +2436,7 @@
                         <apartment>149</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -2453,7 +2453,7 @@
                         <apartment>150</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -2470,7 +2470,7 @@
                         <apartment>151</apartment>
                         <floor>11</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -2487,7 +2487,7 @@
                         <apartment>152</apartment>
                         <floor>11</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -2504,7 +2504,7 @@
                         <apartment>153</apartment>
                         <floor>11</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -2521,7 +2521,7 @@
                         <apartment>154</apartment>
                         <floor>11</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -2538,7 +2538,7 @@
                         <apartment>155</apartment>
                         <floor>11</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -2555,7 +2555,7 @@
                         <apartment>156</apartment>
                         <floor>11</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -2572,7 +2572,7 @@
                         <apartment>157</apartment>
                         <floor>11</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -2589,7 +2589,7 @@
                         <apartment>158</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -2606,7 +2606,7 @@
                         <apartment>159</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -2623,7 +2623,7 @@
                         <apartment>160</apartment>
                         <floor>11</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -2641,7 +2641,7 @@
                         <apartment>161</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2658,7 +2658,7 @@
                         <apartment>162</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2675,7 +2675,7 @@
                         <apartment>163</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2692,7 +2692,7 @@
                         <apartment>164</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2709,7 +2709,7 @@
                         <apartment>165</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -2726,7 +2726,7 @@
                         <apartment>166</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -2743,7 +2743,7 @@
                         <apartment>167</apartment>
                         <floor>12</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -2760,7 +2760,7 @@
                         <apartment>168</apartment>
                         <floor>12</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -2777,7 +2777,7 @@
                         <apartment>169</apartment>
                         <floor>12</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -2794,7 +2794,7 @@
                         <apartment>170</apartment>
                         <floor>12</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -2811,7 +2811,7 @@
                         <apartment>171</apartment>
                         <floor>12</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -2828,7 +2828,7 @@
                         <apartment>172</apartment>
                         <floor>12</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -2845,7 +2845,7 @@
                         <apartment>173</apartment>
                         <floor>12</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -2862,7 +2862,7 @@
                         <apartment>174</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -2879,7 +2879,7 @@
                         <apartment>175</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -2896,7 +2896,7 @@
                         <apartment>176</apartment>
                         <floor>12</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -2914,7 +2914,7 @@
                         <apartment>177</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2931,7 +2931,7 @@
                         <apartment>178</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2948,7 +2948,7 @@
                         <apartment>179</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2965,7 +2965,7 @@
                         <apartment>180</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -2982,7 +2982,7 @@
                         <apartment>181</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -2999,7 +2999,7 @@
                         <apartment>182</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -3016,7 +3016,7 @@
                         <apartment>183</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -3033,7 +3033,7 @@
                         <apartment>184</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -3050,7 +3050,7 @@
                         <apartment>185</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -3067,7 +3067,7 @@
                         <apartment>186</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -3084,7 +3084,7 @@
                         <apartment>187</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -3101,7 +3101,7 @@
                         <apartment>188</apartment>
                         <floor>13</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -3118,7 +3118,7 @@
                         <apartment>189</apartment>
                         <floor>13</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -3135,7 +3135,7 @@
                         <apartment>190</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -3152,7 +3152,7 @@
                         <apartment>191</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -3169,7 +3169,7 @@
                         <apartment>192</apartment>
                         <floor>13</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -3187,7 +3187,7 @@
                         <apartment>193</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3204,7 +3204,7 @@
                         <apartment>194</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3221,7 +3221,7 @@
                         <apartment>195</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3238,7 +3238,7 @@
                         <apartment>196</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3255,7 +3255,7 @@
                         <apartment>197</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -3272,7 +3272,7 @@
                         <apartment>198</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -3289,7 +3289,7 @@
                         <apartment>199</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -3306,7 +3306,7 @@
                         <apartment>200</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -3323,7 +3323,7 @@
                         <apartment>201</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -3340,7 +3340,7 @@
                         <apartment>202</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -3357,7 +3357,7 @@
                         <apartment>203</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -3374,7 +3374,7 @@
                         <apartment>204</apartment>
                         <floor>14</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -3391,7 +3391,7 @@
                         <apartment>205</apartment>
                         <floor>14</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -3408,7 +3408,7 @@
                         <apartment>206</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -3425,7 +3425,7 @@
                         <apartment>207</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -3442,7 +3442,7 @@
                         <apartment>208</apartment>
                         <floor>14</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -3460,7 +3460,7 @@
                         <apartment>209</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3477,7 +3477,7 @@
                         <apartment>210</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3494,7 +3494,7 @@
                         <apartment>211</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3511,7 +3511,7 @@
                         <apartment>212</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3528,7 +3528,7 @@
                         <apartment>213</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -3545,7 +3545,7 @@
                         <apartment>214</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -3562,7 +3562,7 @@
                         <apartment>215</apartment>
                         <floor>15</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -3579,7 +3579,7 @@
                         <apartment>216</apartment>
                         <floor>15</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -3596,7 +3596,7 @@
                         <apartment>217</apartment>
                         <floor>15</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -3613,7 +3613,7 @@
                         <apartment>218</apartment>
                         <floor>15</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -3630,7 +3630,7 @@
                         <apartment>219</apartment>
                         <floor>15</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -3647,7 +3647,7 @@
                         <apartment>220</apartment>
                         <floor>15</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -3664,7 +3664,7 @@
                         <apartment>221</apartment>
                         <floor>15</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -3681,7 +3681,7 @@
                         <apartment>222</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -3698,7 +3698,7 @@
                         <apartment>223</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -3715,7 +3715,7 @@
                         <apartment>224</apartment>
                         <floor>15</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
@@ -3733,7 +3733,7 @@
                         <apartment>225</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3750,7 +3750,7 @@
                         <apartment>226</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3767,7 +3767,7 @@
                         <apartment>227</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3784,7 +3784,7 @@
                         <apartment>228</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4096500</price>
@@ -3801,7 +3801,7 @@
                         <apartment>229</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1-TuN14lOVNgi-0MdNLg0MpDYgkSz3DFx/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,09.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4213500</price>
@@ -3818,7 +3818,7 @@
                         <apartment>230</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1hMlgvJXcOX0xzm8NKUBz6oTJLjDWbWHM/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-28,76.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4314000</price>
@@ -3835,7 +3835,7 @@
                         <apartment>231</apartment>
                         <floor>16</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1N_8fnrztF3yOObGNpcnhXixVQ2T9SuOS/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-38,98.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5262300</price>
@@ -3852,7 +3852,7 @@
                         <apartment>232</apartment>
                         <floor>16</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1SObeaBw3AWGe-75WcJNW2oeEZ_uJRn_i/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -3869,7 +3869,7 @@
                         <apartment>233</apartment>
                         <floor>16</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1XO4giZiC17dhSl0JcW31nAPrzWHH4vZV/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -3886,7 +3886,7 @@
                         <apartment>234</apartment>
                         <floor>16</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1R27vvGAj67jXRzOfKKgEULLVy-e5gBWR/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,28.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5302800</price>
@@ -3903,7 +3903,7 @@
                         <apartment>235</apartment>
                         <floor>16</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1kiocjKgBf3lr2eXsNLonrVYqMS0fWsKp/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-39,27.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>5301450</price>
@@ -3920,7 +3920,7 @@
                         <apartment>236</apartment>
                         <floor>16</floor>
                         <room>1</room>
-                        <plan>https://drive.google.com/file/d/1x1jZJt0RiA3YIrrbE8zcmW-zHyxbmoEy/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-46,20.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>6699000</price>
@@ -3937,7 +3937,7 @@
                         <apartment>237</apartment>
                         <floor>16</floor>
                         <room>2</room>
-                        <plan>https://drive.google.com/file/d/1fzhFuNpB8CYjLZgqT87Nq8JFKG-kompc/view?usp=drive_link</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-55,47.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>7488450</price>
@@ -3954,7 +3954,7 @@
                         <apartment>238</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1wDyGOpIqkUmu_JcVlYHEBPerd6sZY9-V/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,32.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4098000</price>
@@ -3971,7 +3971,7 @@
                         <apartment>239</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1cE3OSlCzp9SNIL6Itk-msQVqFAQgtAAJ/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,38.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4107000</price>
@@ -3988,7 +3988,7 @@
                         <apartment>240</apartment>
                         <floor>16</floor>
                         <room>0</room>
-                        <plan>https://drive.google.com/file/d/1rHsgjpY3-Zjlhwp80ziZpAbcQnsZpuyd/view?usp=sharing</plan>
+                        <plan>https://abestuzhev.github.io/xml-feed/puls/img/floor/apartment-27,31.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>4095000</price>
