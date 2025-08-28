@@ -3717,7 +3717,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/1/apartment-37,79.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4974000</price>
+                        <price>4745000</price>
                         <area>37,79</area>
                         <kitchen_area>10,96</kitchen_area>
                         <living_area>15,17</living_area>
@@ -3805,7 +3805,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/1/apartment-37,18.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4893000</price>
+                        <price>4667000</price>
                         <area>37,18</area>
                         <kitchen_area>10,96</kitchen_area>
                         <living_area>15,17</living_area>
@@ -4128,7 +4128,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/1/apartment-66,40.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>8629000</price>
+                        <price>8100000</price>
                         <area>66,40</area>
                         <kitchen_area>10,12</kitchen_area>
                         <living_area>38,85</living_area>
@@ -4357,7 +4357,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/2/apartment-37,13.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4887000</price>
+                        <price>4662000</price>
                         <area>37,13</area>
                         <kitchen_area>10,62</kitchen_area>
                         <living_area>17,24</living_area>
@@ -4623,7 +4623,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/2/apartment-39,61.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>5213000</price>
+                        <price>4972000</price>
                         <area>39,61</area>
                         <kitchen_area>10,96</kitchen_area>
                         <living_area>15,19</living_area>
@@ -5495,7 +5495,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/2/apartment-39,85.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>5244000</price>
+                        <price>5002000</price>
                         <area>39,85</area>
                         <kitchen_area>5,00</kitchen_area>
                         <living_area>22,23</living_area>
@@ -5734,28 +5734,6 @@
                         <living_area>15,37</living_area>
                         <rooms_area>
                             <area>15,37</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1417</flat_id>
-                        <apartment>417</apartment>
-                        <floor>12</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/apartment-22,64.png</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>3040000</price>
-                        <area>23,26</area>
-                        <kitchen_area>5,00</kitchen_area>
-                        <living_area>8,63</living_area>
-                        <rooms_area>
-                            <area>8,63</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -6118,7 +6096,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor-4/apartment-55,13.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>7256000</price>
+                        <price>7109000</price>
                         <area>55,13</area>
                         <kitchen_area>11.90</kitchen_area>
                         <living_area>30.12</living_area>
@@ -7118,7 +7096,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor-4/apartment-40,59.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>5342000</price>
+                        <price>5092000</price>
                         <area>40,59</area>
                         <kitchen_area>5,0</kitchen_area>
                         <living_area>23,11</living_area>
@@ -7164,7 +7142,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor-4/apartment-40,04.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>5270000</price>
+                        <price>5027000</price>
                         <area>40,04</area>
                         <kitchen_area>5,0</kitchen_area>
                         <living_area>23,11</living_area>
@@ -7505,7 +7483,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor-5/apartment-37,18.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4893000</price>
+                        <price>4667000</price>
                         <area>37,18</area>
                         <kitchen_area>10,96</kitchen_area>
                         <living_area>15,17</living_area>
@@ -7775,7 +7753,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor-5/apartment-67,78.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>8799000</price>
+                        <price>8100000</price>
                         <area>67,78</area>
                         <kitchen_area>10,12</kitchen_area>
                         <living_area>38,85</living_area>
@@ -7943,7 +7921,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor-5/apartment-66,40.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>8629000</price>
+                        <price>8000000</price>
                         <area>66,40</area>
                         <kitchen_area>10,12</kitchen_area>
                         <living_area>38,85</living_area>
