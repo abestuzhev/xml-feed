@@ -1,0 +1,596 @@
+<complexes>
+    <complex>
+        <id>125369</id>
+        <name>ЖК «Дом на Ломоносова»</name>
+        <latitude>64.53241797098467</latitude>
+        <longitude>40.54317720883167</longitude>
+        <address>г. Архангельск, проспект Ломоносова</address>
+        <images>
+            <image>https://abestuzhev.github.io/xml-feed/lomonosovo/img/bg-1.jpg</image>
+            <image>https://abestuzhev.github.io/xml-feed/lomonosovo/img/bg-2.jpg</image>
+        </images>
+
+        <buildings>
+            <building>
+                <id></id>
+                <fz_214>1</fz_214>
+                <name>ЖК «Дом на Ломоносова»</name>
+                <floors>8</floors>
+                <floors_ready>1</floors_ready>
+                <building_state>built</building_state>
+                <built_year>2027</built_year>
+                <ready_quarter>2</ready_quarter>
+                <building_phase>1</building_phase>
+                <building_type>кирпичный</building_type>
+                <image></image>
+                <flats>
+                    <flat>
+                        <flat_id>1001</flat_id>
+                        <apartment>1</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-42,28.jpg</plan>
+                        <balcony>без балкона</balcony>
+                        <renovation>нет</renovation>
+                        <price>6764800</price>
+                        <area>42,28</area>
+                        <kitchen_area>13,46</kitchen_area>
+                        <living_area>42,28</living_area>
+                        <rooms_area>
+                            <area>16,45</area>
+                        </rooms_area>
+                        <window_view>двор/парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1002</flat_id>
+                        <apartment>2</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-65,99.jpg</plan>
+                        <balcony>балкон</balcony>
+                        <renovation>нет</renovation>
+                        <price>9238600</price>
+                        <area>65,99</area>
+                        <kitchen_area>12,90</kitchen_area>
+                        <living_area>37,19</living_area>
+                        <rooms_area>
+                            <area>16,72</area>
+                            <area>20,47</area>
+                        </rooms_area>
+                        <window_view>на улицу</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1010</flat_id>
+                        <apartment>10</apartment>
+                        <floor>3</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18.jpg</plan>
+                        <balcony>лоджия 6,37 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>10583775</price>
+                        <area>69,18</area>
+                        <kitchen_area>12,90</kitchen_area>
+                        <living_area>37,19</living_area>
+                        <rooms_area>
+                            <area>16,72</area>
+                            <area>20,47</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1014</flat_id>
+                        <apartment>14</apartment>
+                        <floor>4</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18.jpg</plan>
+                        <balcony>лоджия 6,37 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>10791300</price>
+                        <area>69,18</area>
+                        <kitchen_area>12,90</kitchen_area>
+                        <living_area>37,19</living_area>
+                        <rooms_area>
+                            <area>16,72</area>
+                            <area>20,47</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+                    <flat>
+                        <flat_id>1003</flat_id>
+                        <apartment>3</apartment>
+                        <floor>1</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-61,60.jpg</plan>
+                        <balcony>без балкона</balcony>
+                        <renovation>нет</renovation>
+                        <price>8624000</price>
+                        <area>61,60</area>
+                        <kitchen_area>10,84</kitchen_area>
+                        <living_area>39,26</living_area>
+                        <rooms_area>
+                            <area>11,48</area>
+                            <area>27,78</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1011</flat_id>
+                        <apartment>11</apartment>
+                        <floor>3</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>9601515</price>
+                        <area>62,76</area>
+                        <kitchen_area>10,84</kitchen_area>
+                        <living_area>39,26</living_area>
+                        <rooms_area>
+                            <area>11,48</area>
+                            <area>27,78</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1015</flat_id>
+                        <apartment>15</apartment>
+                        <floor>4</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>9789780</price>
+                        <area>62,76</area>
+                        <kitchen_area>10,84</kitchen_area>
+                        <living_area>39,26</living_area>
+                        <rooms_area>
+                            <area>11,48</area>
+                            <area>27,78</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+                    <flat>
+                        <flat_id>1004</flat_id>
+                        <apartment>4</apartment>
+                        <floor>1</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-54,20.jpg</plan>
+                        <balcony>без балкона</balcony>
+                        <renovation>нет</renovation>
+                        <price>7588000</price>
+                        <area>54,20</area>
+                        <kitchen_area>8,88</kitchen_area>
+                        <living_area>32,30</living_area>
+                        <rooms_area>
+                            <area>12,76</area>
+                            <area>19,54</area>
+                        </rooms_area>
+                        <window_view>во двор</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1016</flat_id>
+                        <apartment>16</apartment>
+                        <floor>4</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>7588000</price>
+                        <area>55,36</area>
+                        <kitchen_area>8,88</kitchen_area>
+                        <living_area>32,30</living_area>
+                        <rooms_area>
+                            <area>12,76</area>
+                            <area>19,54</area>
+                        </rooms_area>
+                        <window_view>во двор</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+                    <flat>
+                        <flat_id>1021</flat_id>
+                        <apartment>21</apartment>
+                        <floor>6</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-1.jpg</plan>
+                        <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>14821380</price>
+                        <area>91,49</area>
+                        <kitchen_area>30,05</kitchen_area>
+                        <living_area>27,55</living_area>
+                        <rooms_area>
+                            <area>16,45</area>
+                            <area>11,10</area>
+                        </rooms_area>
+                        <window_view>во двор</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1024</flat_id>
+                        <apartment>24</apartment>
+                        <floor>7</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-1.jpg</plan>
+                        <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>15187340</price>
+                        <area>91,49</area>
+                        <kitchen_area>30,05</kitchen_area>
+                        <living_area>27,55</living_area>
+                        <rooms_area>
+                            <area>16,45</area>
+                            <area>11,10</area>
+                        </rooms_area>
+                        <window_view>во двор</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1027</flat_id>
+                        <apartment>27</apartment>
+                        <floor>8</floor>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-1.jpg</plan>
+                        <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>15187340</price>
+                        <area>91,49</area>
+                        <kitchen_area>30,05</kitchen_area>
+                        <living_area>27,55</living_area>
+                        <rooms_area>
+                            <area>16,45</area>
+                            <area>11,10</area>
+                        </rooms_area>
+                        <window_view>во двор</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+                    <flat>
+                        <flat_id>1022</flat_id>
+                        <apartment>22</apartment>
+                        <floor>6</floor>
+                        <room>4</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35.jpg</plan>
+                        <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>14311890</price>
+                        <area>88,35</area>
+                        <kitchen_area>17,47</kitchen_area>
+                        <living_area>47,19</living_area>
+                        <rooms_area>
+                            <area>20,63</area>
+                            <area>15,77</area>
+                            <area>10,79</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1022</flat_id>
+                        <apartment>22</apartment>
+                        <floor>6</floor>
+                        <room>4</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>14311890</price>
+                        <area>88,35</area>
+                        <kitchen_area>17,47</kitchen_area>
+                        <living_area>47,19</living_area>
+                        <rooms_area>
+                            <area>20,63</area>
+                            <area>15,77</area>
+                            <area>10,79</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1025</flat_id>
+                        <apartment>25</apartment>
+                        <floor>7</floor>
+                        <room>4</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>14665270</price>
+                        <area>88,35</area>
+                        <kitchen_area>17,47</kitchen_area>
+                        <living_area>47,19</living_area>
+                        <rooms_area>
+                            <area>20,63</area>
+                            <area>15,77</area>
+                            <area>10,79</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1028</flat_id>
+                        <apartment>28</apartment>
+                        <floor>8</floor>
+                        <room>4</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>15018650</price>
+                        <area>88,35</area>
+                        <kitchen_area>17,47</kitchen_area>
+                        <living_area>47,19</living_area>
+                        <rooms_area>
+                            <area>20,63</area>
+                            <area>15,77</area>
+                            <area>10,79</area>
+                        </rooms_area>
+                        <window_view>на парк</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+
+                    <flat>
+                        <flat_id>1023</flat_id>
+                        <apartment>23</apartment>
+                        <floor>6</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>8967510</price>
+                        <area>55,36</area>
+                        <kitchen_area>8,88</kitchen_area>
+                        <living_area>32,30</living_area>
+                        <rooms_area>
+                            <area>12,76</area>
+                            <area>19,54</area>
+                        </rooms_area>
+                        <window_view>во двор</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1026</flat_id>
+                        <apartment>26</apartment>
+                        <floor>7</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>9188930</price>
+                        <area>55,36</area>
+                        <kitchen_area>8,88</kitchen_area>
+                        <living_area>32,30</living_area>
+                        <rooms_area>
+                            <area>12,76</area>
+                            <area>19,54</area>
+                        </rooms_area>
+                        <window_view>во двор</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                    <flat>
+                        <flat_id>1029</flat_id>
+                        <apartment>29</apartment>
+                        <floor>8</floor>
+                        <room>2</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36.jpg</plan>
+                        <balcony>балкон 3,85 кв. м</balcony>
+                        <renovation>нет</renovation>
+                        <price>9410350</price>
+                        <area>55,36</area>
+                        <kitchen_area>8,88</kitchen_area>
+                        <living_area>32,30</living_area>
+                        <rooms_area>
+                            <area>12,76</area>
+                            <area>19,54</area>
+                        </rooms_area>
+                        <window_view>во двор</window_view>
+                        <bathroom>раздельный</bathroom>
+                        <layout_type>free</layout_type>
+                        <housing_type>0</housing_type>
+                        <decoration>0</decoration>
+                        <ready_housing>0</ready_housing>
+                    </flat>
+                </flats>
+            </building>
+
+        </buildings>
+        <!--<discounts>-->
+            <!--<discount>-->
+                <!--<name>Холодильник в подарок</name>-->
+                <!--<description>Каждому второму дарим в подарок отличный холодильник!</description>-->
+                <!--<image>url.img.ru</image>-->
+                <!--<site>zastroischik.ru</site>-->
+            <!--</discount>-->
+        <!--</discounts>-->
+        <description_main>
+            <title>Жилой комплекс «Дом на Ломоносова»</title>
+            <text>
+                Предлагаю квартиру в cтроящемся ЖК «Дом на Ломоносова»! Любимая всеми "классика" - полностью Кирпичный дом из "Теплой керамики"!
+                Небольшой дом, три подъезда по 8 этажей. Всего три-четыре квартиры на этаже!
+                Центр города, все в пешей доступности: Чумбаровка, Набережная, Торговые центры.
+                Лоджии и балконы остеклены. 
+                На верхних этажах, начиная с 6го свободная планировка квартир! Возможно установить перегородки и расположение комнат по своему проекту! Всего  три квартиры на этаже! На верхнем, 8 этаже высота потолка 3 метра!  
+                Отделка квартир: межкомнатные перегородки, штукатурка кирпичных стен, стяжка пола, радиаторы отопления, подвод в квартиру системы канализации и водоснабжения без установки сантехнического оборудования, ввод электроснабжения в квартиру без разводки по квартире.
+
+                Подходит для Арктической ипотеки!!! и для других программ Льготных ипотек с низкой ставкой!
+                Сдача дома 2 кв 2027 года.
+                Звоните! Мы ответим на все вопросы по квартире и предложим лучшие планировки и условия покупки! выберем и купим выгодно!
+            </text>
+        </description_main>
+        <!--<description_secondary>-->
+            <!--<title>Самый надежный!</title>-->
+            <!--<text>Ещё наш ЖК самый надёжный и его дизайн разрабатывал самый известный архитектор!</text>-->
+        <!--</description_secondary>-->
+        <infrastructure>
+            <parking>Наземная</parking>
+            <security>0</security>
+            <fenced_area>1</fenced_area>
+            <sports_ground>1</sports_ground>
+            <playground>1</playground>
+            <school>1</school>
+            <kindergarten>1</kindergarten>
+        </infrastructure>
+        <!--<videos>-->
+            <!--<video>-->
+                <!--<type>youtube</type>-->
+                <!--<url>youtube.com/123123</url>-->
+            <!--</video>-->
+            <!--<video>-->
+                <!--<type>realtime</type>-->
+                <!--<url>realtime.com/123123</url>-->
+            <!--</video>-->
+        <!--</videos>-->
+        <!--<profits_main>-->
+            <!--<profit_main>-->
+                <!--<title>Wi-fi во дворе!</title>-->
+                <!--<text>В нашем дворе бесплатный вай фай!</text>-->
+                <!--<image>url.img.ru</image>-->
+            <!--</profit_main>-->
+            <!--<profit_main>-->
+                <!--<title>Бассейн на крыше</title>-->
+                <!--<text>На крыше есть открытый бассейн с горками!</text>-->
+                <!--<image>url.img.ru</image>-->
+            <!--</profit_main>-->
+        <!--</profits_main>-->
+        <!--<profits_secondary>-->
+            <!--<profit_secondary>-->
+                <!--<title>Красивое освещение подъездов</title>-->
+                <!--<text>В наших подъездах есть разноцветные лампы</text>-->
+                <!--<image>url.img.ru</image>-->
+            <!--</profit_secondary>-->
+        <!--</profits_secondary>-->
+
+
+        <sales_info>
+            <sales_phone>+79116761866</sales_phone>
+            <responsible_officer_phone>+79116761866</responsible_officer_phone>
+            <sales_address>г. Архангельск, улица Красноармейская, д. 20, помещение № 6</sales_address>
+            <sales_latitude>64.53265816583564</sales_latitude>
+            <sales_longitude>40.56484409325398</sales_longitude>
+            <timezone>+0</timezone>
+            <work_days>
+                <work_day>
+                    <day>пн</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>ср</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>чт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>пт</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>сб</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+                <work_day>
+                    <day>вс</day>
+                    <open_at>09:00</open_at>
+                    <close_at>18:00</close_at>
+                </work_day>
+            </work_days>
+        </sales_info>
+        <developer>
+            <id>376652</id>
+            <name>ООО «СЗ Синтэкс»</name>
+            <phone>+79116761866</phone>
+            <site></site>
+            <logo></logo>
+        </developer>
+    </complex>
+</complexes>
