@@ -121,7 +121,10 @@
                         <apartment>3</apartment>
                         <floor>1</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-61,60.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-61,60-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-61,60-2.jpg</plan>
+                        </plans>
                         <balcony>без балкона</balcony>
                         <renovation>нет</renovation>
                         <price>8624000</price>
@@ -144,7 +147,10 @@
                         <apartment>11</apartment>
                         <floor>3</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-2.jpg</plan>
+                        </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>9601515</price>
@@ -167,7 +173,10 @@
                         <apartment>15</apartment>
                         <floor>4</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-2.jpg</plan>
+                        </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>9789780</price>
@@ -287,7 +296,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-1.jpg</plan>
                         <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
                         <renovation>нет</renovation>
-                        <price>15187340</price>
+                        <price>15533300</price>
                         <area>91,49</area>
                         <kitchen_area>30,05</kitchen_area>
                         <living_area>27,55</living_area>
