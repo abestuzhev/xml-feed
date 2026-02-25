@@ -3463,7 +3463,7 @@
                         <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/1/apartment-37,79.png</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
-                        <price>4974000</price>
+                        <price>5176000</price>
                         <area>37,79</area>
                         <kitchen_area>10,96</kitchen_area>
                         <living_area>15,17</living_area>
@@ -3693,106 +3693,6 @@
                         <living_area>13,52</living_area>
                         <rooms_area>
                             <area>13,52</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-
-
-                    <!--  -->
-
-                    <flat>
-                        <flat_id>1154</flat_id>
-                        <apartment>154</apartment>
-                        <floor>1</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/1/apartment-67,78.png</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>8000000</price>
-                        <area>67,78</area>
-                        <kitchen_area>10,12</kitchen_area>
-                        <living_area>38,85</living_area>
-                        <rooms_area>
-                            <area>13,82</area>
-                            <area>11,43</area>
-                            <area>13,60</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1199</flat_id>
-                        <apartment>199</apartment>
-                        <floor>10</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/1/apartment-66,4.png</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>8629000</price>
-                        <area>66,40</area>
-                        <kitchen_area>10,12</kitchen_area>
-                        <living_area>38,85</living_area>
-                        <rooms_area>
-                            <area>13,82</area>
-                            <area>11,43</area>
-                            <area>13,60</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1204</flat_id>
-                        <apartment>204</apartment>
-                        <floor>11</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/1/apartment-66,4.png</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>8000000</price>
-                        <area>66,40</area>
-                        <kitchen_area>10,12</kitchen_area>
-                        <living_area>38,85</living_area>
-                        <rooms_area>
-                            <area>13,82</area>
-                            <area>11,43</area>
-                            <area>13,60</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1209</flat_id>
-                        <apartment>209</apartment>
-                        <floor>12</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor/1/apartment-66,4.png</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>7500000</price>
-                        <area>66,40</area>
-                        <kitchen_area>10,12</kitchen_area>
-                        <living_area>38,85</living_area>
-                        <rooms_area>
-                            <area>13,82</area>
-                            <area>11,43</area>
-                            <area>13,60</area>
                         </rooms_area>
                         <window_view>на улицу</window_view>
                         <bathroom>раздельный</bathroom>
@@ -6342,29 +6242,6 @@
 
 
                     <!-- подъезд 5-->
-
-                    <flat>
-                        <flat_id>1526</flat_id>
-                        <apartment>526</apartment>
-                        <floor>2</floor>
-                        <room>1</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/stels/img/floor-5/apartment-36,30.jpg</plan>
-                        <balcony>балкон</balcony>
-                        <renovation>нет</renovation>
-                        <price>4777000</price>
-                        <area>36,30</area>
-                        <kitchen_area>10,37</kitchen_area>
-                        <living_area>16,69</living_area>
-                        <rooms_area>
-                            <area>16,69</area>
-                        </rooms_area>
-                        <window_view>на улицу</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
                     <flat>
                         <flat_id>566</flat_id>
                         <apartment>566</apartment>
