@@ -24,7 +24,7 @@
                 <building_type>кирпичный</building_type>
                 <image></image>
                 <flats>
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1001</flat_id>
                         <apartment>1</apartment>
                         <floor>1</floor>
@@ -45,13 +45,13 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
                     <flat>
                         <flat_id>1002</flat_id>
                         <apartment>2</apartment>
                         <floor>1</floor>
-                        <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-65,99.jpg</plan>
+                        <room>3</room>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-65,99-1.jpg</plan>
                         <balcony>балкон</balcony>
                         <renovation>нет</renovation>
                         <price>9238600</price>
@@ -74,7 +74,11 @@
                         <apartment>10</apartment>
                         <floor>3</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18-3.jpg</plan>
+                        </plans>
                         <balcony>лоджия 6,37 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>10583775</price>
@@ -97,7 +101,11 @@
                         <apartment>14</apartment>
                         <floor>4</floor>
                         <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-69,18-3.jpg</plan>
+                        </plans>
                         <balcony>лоджия 6,37 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>10791300</price>
@@ -121,10 +129,7 @@
                         <apartment>3</apartment>
                         <floor>1</floor>
                         <room>3</room>
-                        <plans>
-                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-61,60-1.jpg</plan>
-                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-61,60-2.jpg</plan>
-                        </plans>
+                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-61,60-3.jpg</plan>
                         <balcony>без балкона</balcony>
                         <renovation>нет</renovation>
                         <price>8624000</price>
@@ -148,8 +153,9 @@
                         <floor>3</floor>
                         <room>3</room>
                         <plans>
-                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-1.jpg</plan>
-                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-3.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-4.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-5.jpg</plan>
                         </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
@@ -174,8 +180,9 @@
                         <floor>4</floor>
                         <room>3</room>
                         <plans>
-                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-1.jpg</plan>
-                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-3.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-4.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-62,76-5.jpg</plan>
                         </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
@@ -195,7 +202,7 @@
                         <ready_housing>0</ready_housing>
                     </flat>
 
-                    <flat>
+                    <!-- <flat>
                         <flat_id>1004</flat_id>
                         <apartment>4</apartment>
                         <floor>1</floor>
@@ -217,8 +224,8 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
+                    </flat> -->
+                    <!-- <flat>
                         <flat_id>1016</flat_id>
                         <apartment>16</apartment>
                         <floor>4</floor>
@@ -240,14 +247,17 @@
                         <housing_type>0</housing_type>
                         <decoration>0</decoration>
                         <ready_housing>0</ready_housing>
-                    </flat>
+                    </flat> -->
 
                     <flat>
                         <flat_id>1021</flat_id>
                         <apartment>21</apartment>
                         <floor>6</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-1.jpg</plan>
+                        <room>4</room>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-3.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-4.jpg</plan>
+                        </plans>
                         <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>14821380</price>
@@ -269,8 +279,11 @@
                         <flat_id>1024</flat_id>
                         <apartment>24</apartment>
                         <floor>7</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-1.jpg</plan>
+                        <room>4</room>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-3.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-4.jpg</plan>
+                        </plans>
                         <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>15187340</price>
@@ -292,8 +305,11 @@
                         <flat_id>1027</flat_id>
                         <apartment>27</apartment>
                         <floor>8</floor>
-                        <room>3</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-1.jpg</plan>
+                        <room>4</room>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-3.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-91,49-4.jpg</plan>
+                        </plans>
                         <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>15533300</price>
@@ -317,32 +333,12 @@
                         <apartment>22</apartment>
                         <floor>6</floor>
                         <room>4</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-3.jpg</plan>
+                        </plans>
                         <balcony>лоджия 5,14 кв. м и лоджия 10,1 кв. м</balcony>
-                        <renovation>нет</renovation>
-                        <price>14311890</price>
-                        <area>88,35</area>
-                        <kitchen_area>17,47</kitchen_area>
-                        <living_area>47,19</living_area>
-                        <rooms_area>
-                            <area>20,63</area>
-                            <area>15,77</area>
-                            <area>10,79</area>
-                        </rooms_area>
-                        <window_view>на парк</window_view>
-                        <bathroom>раздельный</bathroom>
-                        <layout_type>free</layout_type>
-                        <housing_type>0</housing_type>
-                        <decoration>0</decoration>
-                        <ready_housing>0</ready_housing>
-                    </flat>
-                    <flat>
-                        <flat_id>1022</flat_id>
-                        <apartment>22</apartment>
-                        <floor>6</floor>
-                        <room>4</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35.jpg</plan>
-                        <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>14311890</price>
                         <area>88,35</area>
@@ -365,7 +361,11 @@
                         <apartment>25</apartment>
                         <floor>7</floor>
                         <room>4</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-3.jpg</plan>
+                        </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>14665270</price>
@@ -389,7 +389,11 @@
                         <apartment>28</apartment>
                         <floor>8</floor>
                         <room>4</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-88,35-3.jpg</plan>
+                        </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>15018650</price>
@@ -414,7 +418,11 @@
                         <apartment>23</apartment>
                         <floor>6</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-3.jpg</plan>
+                        </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>8967510</price>
@@ -437,7 +445,11 @@
                         <apartment>26</apartment>
                         <floor>7</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-3.jpg</plan>
+                        </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>9188930</price>
@@ -460,7 +472,11 @@
                         <apartment>29</apartment>
                         <floor>8</floor>
                         <room>2</room>
-                        <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36.jpg</plan>
+                        <plans>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-1.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-2.jpg</plan>
+                            <plan>https://abestuzhev.github.io/xml-feed/lomonosovo/img/apartment-55,36-3.jpg</plan>
+                        </plans>
                         <balcony>балкон 3,85 кв. м</balcony>
                         <renovation>нет</renovation>
                         <price>9410350</price>
